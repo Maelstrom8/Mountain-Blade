@@ -4,7 +4,7 @@
 
 # Introduction
 
-Calradia At War is a work in progress modlist for the v1.0.3 version of Mount and Blade: Bannerlord, which is unfortunately.. still a framework for mods than an actual game. It's still fairly lackluster and unfinished. This modlist features about 60 mods. I can't say what theme I'm going for right now, but I'd justl ike to list off a few point of interest mods used: Realistic Battle Mod, Banner Kings, Xorberax's Legacy, Fourburie, and Calradia Factions Enhanced.
+Calradia At War is a work in progress modlist for the v1.0.3 version of Mount and Blade: Bannerlord, which is unfortunately.. still a framework for mods than an actual game. It's still fairly lackluster and unfinished. This modlist features about 60 mods. I can't say what theme I'm going for right now, considering the Novus Launcher allows for multiple presets but I'd just like to list off a few point of interest mod I am using: Realistic Battle Mod, Banner Kings, Xorberax's Legacy, Fourburie, and Calradia Factions Enhanced.
 
 PS. This modlist is not associated with the mod "Calradia at War" nor is it part of the modlist.
 
