@@ -41,7 +41,7 @@ You need to own a legitimate copy of Mount & Blade II: Bannerlord through Steam 
 
 This modlist only works for version v1.1.1 of Bannerlord. 
 
-- Luckily the "beta" is more like a hotfix and doesn't break my mods. Go to Properties > Beta and make sure it looks like [this](https://i.imgur.com/Sx5Z4K2.png)
+- Damnit TW, this isn't even a beta. Anyway, the "beta" is actually a hotfix and doesn't break my mods. Go to Properties > Beta and make sure it looks like [this](https://i.imgur.com/Sx5Z4K2.png)
 - Make sure Language is set to [English](https://i.imgur.com/2OKEBEl.png)
 - They really don't have any way to stop updates, so your best option is putting it so it [only updates when you launch it](https://i.imgur.com/T2h2pxF.png). Set that.
 - If the game updates, switch back to v1.1.1 (I'll likely ultilize stock game feature if it becomes available)
