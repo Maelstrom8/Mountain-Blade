@@ -51,8 +51,9 @@ This modlist only works for version 1.1.0 of Bannerlord. Do not update to any be
 
 ## System Requirements
 
-- See the recommended specs from the Steam page. I expect you to have a decent PC in 2023, and I also recommend that you install this list on an SSD. 
-- On top of having the base game installed (47GB), you must have an addtional 52GB of space for the modlist (16GB downloads + 36GB install)
+See the recommended specs from the Steam page. I expect you to have a decent PC in 2023, and I also recommend that you install this list on an SSD. 
+
+On top of having the base game installed (47GB), you must have an addtional 52GB of space for the modlist (16GB downloads + 36GB install)
 
 ### Installing Wabbajack
 
@@ -74,10 +75,7 @@ Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wa
 Updating Calradia Under Fire is done the same way, just make sure your directories match where it's installed and hit overwrite.
 
 
-
 ### Nexus Premium vs Non-Premium
-
-
 
 If you have Premium, WJ will request a Nexus login and use the api to download all mods automatically. Without Premium, you'll be prompted to manually download the mods. Who are you kidding, it's like 16GB, you don't need it homie.
 
