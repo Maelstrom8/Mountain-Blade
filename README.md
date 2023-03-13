@@ -116,7 +116,7 @@ If you're using the main profile, there are some **important** additional steps 
 - Upon a new save, hit left alt + G, go to NPC Settings and make sure it looks like [this](https://i.imgur.com/BkdUc12.jpeg) - do not enable food modules
 - Make sure `AI Clan Governers Handles Issues` is enabled under the mod `Governers Handle Issues` - this can be done from the main menu or ESC > Options > Mod Options
 
-** By the way, there reasons why some options are disabled in the MCM options of mods. Do not enable them. **
+**By the way, there reasons why some options are disabled in the MCM options of mods. Do not enable them.**
 
 - Realistic Battle Mod
    - **The Tournament Module** is disabled because I use a Troop Overhaul such as **Warlords Battlefield**
