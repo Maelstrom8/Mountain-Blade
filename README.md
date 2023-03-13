@@ -139,7 +139,7 @@ A: Let me introduce you to [Realistic Battle Mod](https://www.nexusmods.com/moun
 A: This isn't a question, but I'm also not really a fan of the Combat Module. I'm personally looking into disabling the Combat Module, which means disabling all the RBM patches, keeping the AI Module and adding [Warbandlord](https://www.nexusmods.com/mountandblade2bannerlord/mods/3961) 
 
 #### Q: Help I'm getting my ass beat in Tournaments
-A: This is a combined result of using a troop overhaul such as Warlords Battlefield, and using the combat module from RBM. You are fighting against random troops, naturally will be hard. I might add the mod "Balanced Tournament Armor" to this list, who knows.
+A: This is a combined result of using a troop overhaul such as Warlords Battlefield, and using the combat module from RBM. You are fighting against random troops and lords who are using their innate gear and weapons, even if kills are non-lethal, it will naturally will be hard if you are low level with low skills. I might add the mod "Balanced Tournament Armor"  to potentially address this and return it to the classic style of tournaments being more fair.
 
 #### Q: WOW, I seem to making fuckin cash from battle loot, don't you think this is too much?
 A: This question was like a 5 minute observation, but incase people think they might be making too much dineros.. No. I feel it'll balance out in the long run, especially with Banner Kings, Royal Armory's admission costs and what not. I generally don't care if it seems like too much, though.
