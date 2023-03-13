@@ -7,8 +7,8 @@
 
 ## Contents
 - [Introduction](#Introduction)
-  -[Information](#Information)
-- [Requirements & Information](#requirements-and-information)
+ - [Information](#Information)
+- [Requirements & Installation](#requirements-and-installation)
 
 # Introduction
 
