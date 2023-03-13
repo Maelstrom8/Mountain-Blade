@@ -124,7 +124,7 @@ You are generally ready to play, but there are one or two configs that aren't sa
 
 #### Playing Calradia Under Fire
 
-1. Navigate to your installed modlist folder and double-click on `ModOrganizer2.exe`
+1. Navigate to your installed modlist folder and double-click on `ModOrganizer.exe`
 2. Make sure Novus Launcher is selected as the launcher and hit run - [example](https://i.imgur.com/6dW3cwd.png)
 3. Make sure `ModlistProfile` is selected under Novus Launcher if you want to play the main one - [example](https://i.imgur.com/clS9och.png)
 
