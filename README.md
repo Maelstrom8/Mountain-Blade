@@ -85,10 +85,10 @@ If you have Premium, WJ will request a Nexus login and use the api to download a
 
 If you don't do the steps in this category the game won't work.. uh.. yeah no it won't work.
 
-- After you successfully installed the list, navigate to the folder you installed the list - [example](https://i.imgur.com/3rKIdRO.png)
-- Inside there is a folder in big large caps **GAME FILES FOLDER**, it consists of two folders; *Configs* and *Novus Launcher*. You need to manually move these.
+- After you successfully installed the list, navigate to the folder you installed the list in - [example](https://i.imgur.com/3rKIdRO.png)
+- Inside there is a folder in big large caps called **GAME FILES FOLDER**, inside consists of two folders; *Configs* and *Novus Launcher*. You need to manually move these.
 
-`Configs` is responsible for saved MCM configurations of mods. Copy the whole folder over to "YourUserName\Documents\Mount and Blade II Bannerlord\" - [example](https://i.imgur.com/oSyPZoS.png)
+`Configs` is responsible for saved MCM configurations of mods. Copy the whole folder over to "YourUserName\My Documents\Mount and Blade II Bannerlord\" - [example](https://i.imgur.com/oSyPZoS.png)
 
 `Novus Launcher` .. is responsible for everything. Copy this folder to your ROOT Mount & Blade 2: Bannerlord folder - [example](https://i.imgur.com/vPIodfH.png)
 
