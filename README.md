@@ -52,6 +52,7 @@ On top of having the base game installed (47GB), you must have an addtional 52GB
 Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases). Place it in a folder such as `C:\Wabbajack`. Do not extract it to any of your Steam Library directories nor your game root folder. Do not extract it to locations such as Program Files, or User Directories like Documents, Downloads and so forth. You can use an SSD to speed up the process, but it's not required for this list in particular.
 
 
+
 ### Installing Calradia Under Fire
 
 1. Open Wabbajack and click `Browse Modlists`
@@ -65,22 +66,33 @@ Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wa
 
 Updating Calradia Under Fire is done the same way, just make sure your directories match where it's installed and hit overwrite.
 
+
+
 ### Nexus Premium vs Non-Premium
 
+
+
 If you have Premium, WJ will request a Nexus login and use the api to download all mods automatically. Without Premium, you'll be prompted to manually download the mods. Who are you kidding, it's like 16GB, you don't need it homie.
+
+
 
 ## POST INSTALLATION (PLEASE READ)
 
 - If you don't do the steps in this category the game won't work.. uh.. yeah no it won't work.
 
-1. After you successfully installed the list, navigate to the folder you installed the list - ((example)[https://i.imgur.com/3rKIdRO.png])
+1. After you successfully installed the list, navigate to the folder you installed the list - ([example])(https://i.imgur.com/3rKIdRO.png)
 2. Inside there is a folder in big large caps "GAME FILES FOLDER", it consists of two folders; Configs and Novus Launcher. You need to manually move these.
 
+
 `Configs` is responsible for saved MCM configurations of mods. Copy the whole folder over to "YourUserName\Documents\Mount and Blade II Bannerlord\" - ((example)[https://i.imgur.com/oSyPZoS.png])
-`Novus Launcher` .. is responsible for everything. Copy this folder to your ROOT Mount & Blade 2: Bannerlord folder - ((example)[https://i.imgur.com/vPIodfH.png])
+
+`Novus Launcher` .. is responsible for everything. Copy this folder to your ROOT Mount & Blade 2: Bannerlord folder - ([example])(https://i.imgur.com/vPIodfH.png)
+
 
 2. Launch Mod Organizer 2, navigate to the top left of the program. See the giant green RUN BUTTON? Don't click it, fucker. Next to it is a drop down box, expand it and hit `<Edit..>`
 3. All the way to the left next to Executables, hit the Plus sign - add from file. Navigate to your root game folder for Bannerlord and select the NovusLauncher.exe within its folder then hit apply.
+
+
 
 ### Launching Calradia Under Fire
 
