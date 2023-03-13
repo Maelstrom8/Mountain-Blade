@@ -5,6 +5,9 @@
 
 ---
 
+## Contents
+- [Introduction] (#Introduction)
+
 # Introduction
 
 Calradia Under Fire is a modlist for the v1.1.0 version of Mount & Blade II: Bannerlord. Calradia Under Fire makes use of a mod launcher called Novus Launcher, which allows users to make and customize load order presets for mods. This is basically what MO2 is for Bethesda games. Bannerlord has a basic MO2 plugin, and allows you to make profile presets, but because of how the game is built, MO2 can only really operate as a vfs. You need an additional tool such as Novus Launcher or BUTRLoader to then organize the load order of the mods.
