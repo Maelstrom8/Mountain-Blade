@@ -41,6 +41,7 @@ This modlist only works for version 1.1.0 of Bannerlord. Do not update to any be
 
 | **CPU**   |  Intel® Core™ i5-9600K / AMD Ryzen™ 5 3600X   |  
 | **Graphics**    | NVIDIA GTX 1060 3GB / AMD Radeon™ RX 580 |
+
 | **Memory**    | 8 GB RAM |
 
 Honestly I just copied this from the recommended specs from the Steam page. I expect you to have a decent PC in 2023, and I also recommend that you install this list on an SSD
