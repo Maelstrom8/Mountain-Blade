@@ -18,20 +18,20 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "TEXT HERE",
+      "image": "https://raw.githubusercontent.com/Maelstrom8/CalradiaUnderFire/main/Images/4277-1665765591-334181290.jpeg",
       "readme": "https://github.com/Maelstrom8/CalradiaUnderFire",
-      "download": "TEXT HERE",
+      "download": "https://authored-files.wabbajack.org/Calradia%20Under%20Fire.wabbajack_59fa07e9-e41a-41e3-83f1-cddc06f2893e",
       "machineURL": "machineURL HERE",
-      "discordURL": "TEXT HERE"
+      "discordURL": "wip"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "X",
-      "Size": X,
-      "NumberOfArchives": X,
-      "SizeOfArchives": X,
-      "NumberOfInstalledFiles": X,
-      "SizeOfInstalledFiles": X
+      "Hash": "zZIkWop5bXY=",
+      "Size": 3887583,
+      "NumberOfArchives": 129,
+      "SizeOfArchives": 17374126496,
+      "NumberOfInstalledFiles": 11370,
+      "SizeOfInstalledFiles": 29940589166
     },
     "version": "1.0"
   }
