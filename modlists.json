@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Calradia Under Fire",
-    "description": "A dual purpose modlist for the v1.1.0 version of Mount & Blade II: Bannerlord which makes use of a mod tool called Novus Launcher that allows players to make and customize load order presets.",
+    "description": "A dual purpose modlist for the v1.1.1 version of Mount & Blade II: Bannerlord which makes use of a mod tool called Novus Launcher that allows players to make and customize load order presets.",
     "author": "Maelstrom",
     "maintainers": [
       "github/Maelstrom8"
