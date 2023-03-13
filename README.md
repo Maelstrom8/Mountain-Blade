@@ -4,7 +4,7 @@
 
 # Introduction
 
-Calradia Under Fire is a modlist for the v1.0.3 version of Mount & Blade II: Bannerlord, with a small catch. It's a customizable modlist. The modlist uses Novus Launcher - a tool made by a modder. Originally, all your enabled mods would be detected in the standard launcher and you would be playing with a veryu specific set of mods, but I don't care for that. With Novus Launcher I can add 100+ mods, and then within the launcher anyone can choose which mods to enable and use, effectively being able to use presets. So that's what I did. 
+Calradia Under Fire is a modlist for the v1.1.0 version of Mount & Blade II: Bannerlord, with a small catch. It's a customizable modlist. The modlist uses Novus Launcher - a tool made by a modder. Originally, all your enabled mods would be detected in the standard launcher and you would be playing with a veryu specific set of mods, but I don't care for that. With Novus Launcher I can add 100+ mods, and then within the launcher anyone can choose which mods to enable and use, effectively being able to use presets. So that's what I did. 
 
 I threw together a functional modlist featuring some cool mods like Realistic Battle Mod, Banner Kings, and more - which functions as the base. Players can use the provided preset, or they can make their own. The thing is that not every mod is compatible with each other, so it's a learning experience!
 
