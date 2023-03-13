@@ -16,8 +16,8 @@
 - [POST-INSTALLATION](#post-installation)
 - [Launching Calradia Under Fire](#launching-calradia-under-fire)
 - [FAQ](#faq)
-- [Bugs / Install Help](#bugs-/-install-help)
-- [Thanks / Credits](#thanks-/-credits)
+- [Bugs and Install Help](#bugs-and-install-help)
+- [Thanks and Credits](#thanks-and-credits)
 
 # Introduction
 
@@ -111,11 +111,11 @@ If you have Premium, WJ will request a Nexus login and use the api to download a
 6. Profit!
 
 
-### Bugs / Install Help
+### Bugs and Install Help
 
 TBA
 
-### Thanks / Credits
+### Thanks and Credits
 
 - Bloc for making great mods, specifically Novus Launcher
 - TW for making a great framework
