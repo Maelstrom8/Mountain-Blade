@@ -37,7 +37,7 @@ Calradia Under Fire ships with two Noxus Launcher presets. One is meant to be th
 
 If you would like to get a bit deeper into modifications - head on over to the [Modding Documentation](https://github.com/Maelstrom8/CalradiaUnderFire/blob/main/Documentation/Modding%20Documentation.md)
 
-## Requirements & Installation
+### Requirements & Installation
 
 - A unmodified copy of Mount & Blade II: Bannerlord through Steam (I do not support anything else)
 - Your Bannerlord version must be v1.1.1
@@ -46,17 +46,17 @@ If you would like to get a bit deeper into modifications - head on over to the [
    - They really don't have any way to stop updates, so your best option is putting it so it [only updates when you launch it](https://i.imgur.com/T2h2pxF.png). Set that.
    - If the game updates, switch back to v1.1.1 (I'll likely ultilize stock game feature if it becomes available)
 
-## System Requirements
+### System Requirements
 
 - See the recommended specs from the Steam page. You don't need a 4090 but you are expected to have a decent PC in 2023, and are expected to have an SSD for games. I would actually hope you install this on an SSD.
 - You need 99GB of free space. Base game (47GB) + the downloads (16GB) + the install (36GB)
 
-# Wabbajack Installation
+## Wabbajack Installation
 
 Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases). Place it in a folder such as `C:\Wabbajack`. Do not extract it to any of your Steam Library directories nor your game root folder. Do not extract it to locations such as Program Files, or User Directories like Documents, Downloads and so forth. You can use an SSD to speed up the process.
 
 
-## Downloading and Installing Calradia Under Fire
+### Downloading and Installing Calradia Under Fire
 
 1. Open Wabbajack and click `Browse Modlists`
 2. Tick on the `Show Unofficial lists` option in the top right corner of Wabbajack
@@ -67,7 +67,7 @@ Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wa
 7. ???
 8. Profit
 
-## Installation Issues
+### Installation Issues
 
 You may run into some issues with Wabbajack, here are some common ones
 
@@ -80,7 +80,7 @@ You may run into some issues with Wabbajack, here are some common ones
 - It is too slow
    - Get an SSD
 
-## Nexus Premium vs Non-Premium
+### Nexus Premium vs Non-Premium
 
 If you have Premium, WJ will request a Nexus login and use the api to download all mods automatically. Without Premium, you'll be prompted to manually download the mods. Who are you kidding, it's like 16GB, you don't need it homie.
 
