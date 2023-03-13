@@ -5,9 +5,9 @@
 
 ---
 
-## Contents
+## Table of Contents
 - [Introduction](#Introduction)
- - [Information](#Information)
+   - [Information](#Information)
 - [Requirements & Installation](#requirements-and-installation)
 - [System Requirements](#system-requirements)
 - [Installing Wabbajack](#installing-wabbajack)
