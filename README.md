@@ -27,7 +27,7 @@ Calradia Under Fire ships with two Noxus Launcher presets. One is meant to be th
 
 (This has nothing to do with the game Kingdoms: Under Fire)
 
-### Information
+## Information
 
 `ModlistProfile` is the main profile, the modlist itself, which consists of about 60 mods and is what the standard user should select. It is focused around Realistic Battle Mod & Banner Kings. Features include the troop overhaul Warlords Battlefield, armors such as Open Source Armory, Swadian Armory, Vaegir Armory and many other QoL mods.
 
@@ -35,13 +35,13 @@ Calradia Under Fire ships with two Noxus Launcher presets. One is meant to be th
 
 If you would like to get a bit deeper into modifications - head on over to the [Modding Documentation](https://github.com/Maelstrom8/CalradiaUnderFire/blob/main/Documentation/Modding%20Documentation.md)
 
-# Requirements & Installation
+## Requirements & Installation
 
 You need to own a legitimate copy of Mount & Blade II: Bannerlord through Steam (I do not support anything else), which also needs to be unmodified / clean. Delete the whole thing and or verify files if you run into any issues.
 
 This modlist only works for version v1.1.1 of Bannerlord. Do not update to any beta. Go to Properties > Beta and make sure none is selected. Also make sure the game only updates when you launch the game.
 
-### System Requirements
+## System Requirements
 
 See the recommended specs from the Steam page. You don't need a 4090 but you are expected to have a decent PC in 2023, and are expected to have an SSD for games. I would actually hope you install this on an SSD.
 
@@ -84,7 +84,7 @@ If you have Premium, WJ will request a Nexus login and use the api to download a
 
 # Post Installation Setup 
 
-### Novus Launcher and MCM Configs 
+#### Novus Launcher and MCM Configs 
 
 Go to where you installed the list, and open the folder labelled **GAME FILES FOLDER** 
 
@@ -97,7 +97,7 @@ Go to where you installed the list, and open the folder labelled **GAME FILES FO
 
 You are generally ready to play, but there are one or two configs that aren't saved globally and have to be set every time you start a new game, but that's for another section. 
 
-### Playing Calradia Under Fire
+#### Playing Calradia Under Fire
 
 1. Navigate to your installed modlist folder and double-click on `ModOrganizer2.exe`
 2. Make sure Novus Launcher is selected as the launcher and hit run - [example](https://i.imgur.com/6dW3cwd.png)
@@ -110,7 +110,7 @@ If you're using the main profile, there are some **important** additional steps 
 
 By the way, the changes I made to the configs were done mostly to make it somewhat balanced and mainly so other mods were compatible with Banner Kings (specifically Xorberax Legacy), the others.. you can technically modify as you see fit but you are responsible for what you do to your game.
 
-# FAQ
+## FAQ
 
 #### Q: What's this menu where I can choose my "start"? Banner Kings? What is this?
 A: Banner Kings. Read all about it in-game or [here](https://github.com/R-Vaccari/bannerlord-banner-kings/wiki)
