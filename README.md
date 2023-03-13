@@ -9,6 +9,7 @@
 - [Introduction](#Introduction)
  - [Information](#Information)
 - [Requirements & Installation](#requirements-and-installation)
+- [System Requirements](#system-requirements)
 
 # Introduction
 
