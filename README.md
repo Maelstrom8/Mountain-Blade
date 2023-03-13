@@ -101,7 +101,7 @@ Go to where you installed the list, and open the folder labelled **GAME FILES FO
 3. Open `ModOrganizer2.exe` within the list's directory and navigate to the drop down menu on the top right, hit the arrow and hit `<Edit...>`
 4. All the way to the left next to "Executables" is a plus sign, click it and select "add from file"
 5. Navigate to the `NovusLauncher.exe` you moved over to your Bannerlord folder, hit apply
-6. PS make sure your managed game under settings points to the base TaleWorlds launcher [example](https://i.imgur.com/F9vUdly.png)
+6. PS make sure your managed game under settings points to the base TaleWorlds launcher - [example](https://i.imgur.com/F9vUdly.png)
 
 You are generally ready to play, but there are one or two configs that aren't saved globally and have to be set every time you start a new game, but that's for another section. 
 
