@@ -23,7 +23,7 @@
 
 # Introduction
 
-Calradia Under Fire is a dual purpose modlist for the v1.1.1 version of Mount & Blade II: Bannerlord. Calradia Under Fire makes use of a mod launcher called Novus Launcher, which allows users to make and customize load order presets for mods. This is basically what MO2 is for Bethesda games. Bannerlord has a basic MO2 plugin, and allows you to make profile presets, but because of how the game is built, MO2 can only really operate as a virtual file system. You need an additional tool such as Novus Launcher or BUTRLoader to then organize the load order of the mods.
+Calradia Under Fire is a dual purpose modlist for the v1.1.1 version of Mount & Blade II: Bannerlord. Calradia Under Fire makes use of a mod launcher called [Novus Launcher](https://www.nexusmods.com/mountandblade2bannerlord/mods/4924?tab=description), which allows users to make and customize load order presets for mods. This is basically what MO2 is for Bethesda games. Bannerlord has a basic MO2 plugin, and allows you to make profile presets, but because of how the game is built, MO2 can only really operate as a virtual file system. You need an additional tool such as Novus Launcher or BUTRLoader to then organize the load order of the mods.
 
 Calradia Under Fire ships with two Noxus Launcher presets. One is meant to be the main modlist, which is meant to be played (almost) out of the box. It consists of 60 mods. The other preset is advanced users, or for those who want to build their own or test mods. That's where the real fun is. In all honesty you can make changes to either, but you should only touching the main one if you know what you're doing.
 
