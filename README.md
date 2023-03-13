@@ -29,7 +29,7 @@ Calradia Under Fire ships with two load order presets (within Novus Launcher): *
 - **BasicEssentials** is where the second purpose of the modlist comes in. Contains the bare minimum mods such as Harmony and what not. This is for advanced users to make their own load order based off the mods provided within MO2, not only that but allows me to make changes and test things. 
 
 
-If you would like to get a bit deeper into modifications and or learn more about the **main profile** - head on over to the (Modding Documentation)(https://github.com/Maelstrom8/CalradiaUnderFire/blob/main/Documentation/Modding%20Documentation.md)
+If you would like to get a bit deeper into modifications and or learn more about the **main profile** - head on over to the (Modding Documentation)[https://github.com/Maelstrom8/CalradiaUnderFire/blob/main/Documentation/Modding%20Documentation.md]
 
 # Requirements & Installation
 
