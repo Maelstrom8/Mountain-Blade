@@ -116,7 +116,16 @@ If you're using the main profile, there are some **important** additional steps 
 - Upon a new save, hit left alt + G, go to NPC Settings and make sure it looks like [this](https://i.imgur.com/BkdUc12.jpeg) - do not enable food modules
 - Make sure `AI Clan Governers Handles Issues` is enabled under the mod `Governers Handle Issues` - this can be done from the main menu or ESC > Options > Mod Options
 
-By the way, the changes I made to the configs were done mostly to make it somewhat balanced and mainly so other mods were compatible with Banner Kings (specifically Xorberax Legacy), the others.. you can technically modify as you see fit but you are responsible for what you do to your game.
+** By the way, there reasons why some options are disabled in the MCM options of mods. Do not enable them. **
+
+- Realistic Battle Mod
+   - **The Tournament Module** is disabled because I use a Troop Overhaul such as **Warlords Battlefield**
+- Xorberax Legacy
+   - **Deadly Combat**, **Deadly Horse Charge** and **Friendly Fire** are disabled to ensure compatibility with **Banner Kings**
+- Improved Garrisons
+   - **Food Module(s)** in the Left + G settings are supposed to be disabled to ensure compatibility with **Banner Kings**
+
+The rest of the changes are a work in progress, untested or personal balance changes I felt were okay.
 
 ## FAQ
 
