@@ -15,9 +15,9 @@
 - [Nexus Premium vs Non-Premium](#nexus-premium-vs-nonpremium)
 - [POST-INSTALLATION](#post-installation)
 - [Launching Calradia Under Fire](#launching-calradia-under-fire)
-- [FAQ](#FAQ)
-- [Bugs & Install Help](#bugs-and-install-help)
-- [Thanks & Credits](#thanks-and-credits)
+- [FAQ](#faq)
+- [Bugs & Install Help](#bugs-&-install-help)
+- [Thanks & Credits](#thanks-&-credits)
 
 # Introduction
 
