@@ -79,7 +79,7 @@ You may run into some issues with Wabbajack, here are some common ones
 - Wabbajack can't find the game folder
    - The only thing I can recommend is actually buying the game
 
-- It is too slow
+- Not an issue but you're installing it on an HDD and it's awfully slow
    - Get an SSD
 
 ### Nexus Premium vs Non-Premium
