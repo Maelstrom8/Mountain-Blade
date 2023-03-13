@@ -127,7 +127,7 @@ If you're using the main profile, there are some **important** additional steps 
 - Xorberax Legacy
    - **Deadly Combat**, **Deadly Horse Charge** and **Friendly Fire** are disabled to ensure compatibility with **Banner Kings**
 - Improved Garrisons
-   - **Food Module(s)** in the Left + G settings are supposed to be disabled to ensure compatibility with **Banner Kings**
+   - **Food Module(s)** in the LAlt + G settings are supposed to be disabled to ensure compatibility with **Banner Kings**
 
 The rest of the changes are a work in progress, untested or personal balance changes I felt were okay.
 
