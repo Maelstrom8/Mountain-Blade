@@ -8,13 +8,15 @@
 ## Table of Contents
 - [Introduction](#Introduction)
    - [Information](#Information)
-- [Requirements & Installation](#requirements-and-installation)
-- [System Requirements](#system-requirements)
-- [Installing Wabbajack](#installing-wabbajack)
-- [Installing Calradia Under Fire](#installing-calradia-under-fire)
-- [Nexus Premium vs Non-Premium](#nexus-premium-vs-nonpremium)
-- [Post Installation](#post-installation)
-- [Launching Calradia Under Fire](#launching-calradia-under-fire)
+   - [Requirements & Installation](#requirements-and-installation)
+   - [System Requirements](#system-requirements)
+ - [Wabbajack Installation](#wabbajack-installation)
+      - [Installing Calradia Under Fire](#installing-calradia-under-fire)
+      - [Installation Issues](#installation-issues)
+      - [Nexus Premium vs Non-Premium](#nexus-premium-vs-nonpremium)
+      - [Updating the list](#updating-the-list)
+- [Post Installation Setup](#post-installation-setup)
+   - [Playing Calradia Under Fire](#playing-calradia-under-fire)
 - [FAQ](#faq)
 - [Bugs](#bugs)
 - [Thanks and Credits](#thanks-and-credits)
@@ -37,27 +39,24 @@ If you would like to get a bit deeper into modifications - head on over to the [
 
 ## Requirements & Installation
 
-You need to own a legitimate copy of Mount & Blade II: Bannerlord through Steam (I do not support anything else), which also needs to be unmodified / clean. Delete the whole thing and or verify files if you run into any issues.
-
-This modlist only works for version v1.1.1 of Bannerlord. 
-
-- Damnit TW, this isn't even a beta. Anyway, the "beta" is actually a hotfix and doesn't break my mods. Go to Properties > Beta and make sure it looks like [this](https://i.imgur.com/Sx5Z4K2.png)
-- Make sure Language is set to [English](https://i.imgur.com/2OKEBEl.png)
-- They really don't have any way to stop updates, so your best option is putting it so it [only updates when you launch it](https://i.imgur.com/T2h2pxF.png). Set that.
-- If the game updates, switch back to v1.1.1 (I'll likely ultilize stock game feature if it becomes available)
+- A unmodified copy of Mount & Blade II: Bannerlord through Steam (I do not support anything else)
+- Your Bannerlord version must be v1.1.1
+   - The "beta" is actually a hotfix and doesn't break my mods. Go to Properties > Beta and make sure it looks like [this](https://i.imgur.com/Sx5Z4K2.png)
+   - Make sure Language is set to [English](https://i.imgur.com/2OKEBEl.png)
+   - They really don't have any way to stop updates, so your best option is putting it so it [only updates when you launch it](https://i.imgur.com/T2h2pxF.png). Set that.
+   - If the game updates, switch back to v1.1.1 (I'll likely ultilize stock game feature if it becomes available)
 
 ## System Requirements
 
-See the recommended specs from the Steam page. You don't need a 4090 but you are expected to have a decent PC in 2023, and are expected to have an SSD for games. I would actually hope you install this on an SSD.
+- See the recommended specs from the Steam page. You don't need a 4090 but you are expected to have a decent PC in 2023, and are expected to have an SSD for games. I would actually hope you install this on an SSD.
+- You need 99GB of free space. Base game (47GB) + the downloads (16GB) + the install (36GB)
 
-On top of that, you need 99GB of free space. Base game (47GB) + the downloads (16GB) + the install (36GB)
-
-### Installing Wabbajack
+# Wabbajack Installation
 
 Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases). Place it in a folder such as `C:\Wabbajack`. Do not extract it to any of your Steam Library directories nor your game root folder. Do not extract it to locations such as Program Files, or User Directories like Documents, Downloads and so forth. You can use an SSD to speed up the process.
 
 
-### Downloading and Installing Calradia Under Fire
+## Downloading and Installing Calradia Under Fire
 
 1. Open Wabbajack and click `Browse Modlists`
 2. Tick on the `Show Unofficial lists` option in the top right corner of Wabbajack
@@ -68,7 +67,7 @@ Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wa
 7. ???
 8. Profit
 
-### Installation Issues
+## Installation Issues
 
 You may run into some issues with Wabbajack, here are some common ones
 
@@ -81,13 +80,15 @@ You may run into some issues with Wabbajack, here are some common ones
 - It is too slow
    - Get an SSD
 
+## Nexus Premium vs Non-Premium
+
+If you have Premium, WJ will request a Nexus login and use the api to download all mods automatically. Without Premium, you'll be prompted to manually download the mods. Who are you kidding, it's like 16GB, you don't need it homie.
+
+
+
 ## Updating the list
 
 You can update the list the same way you install it, just be sure to check [the changelog](https://github.com/Maelstrom8/CalradiaUnderFire/blob/main/Changelog.md) first. **DO NOT** manually update mods, unless you know what you're doing and you know how I made them, which you likely don't. I changed some mods around a little, so if you update them manually.. there could be an issue (eg. the RBM patches section)
-
-### Nexus Premium vs Non-Premium
-
-If you have Premium, WJ will request a Nexus login and use the api to download all mods automatically. Without Premium, you'll be prompted to manually download the mods. Who are you kidding, it's like 16GB, you don't need it homie.
 
 
 # Post Installation Setup 
@@ -104,6 +105,7 @@ Go to where you installed the list, and open the folder labelled **GAME FILES FO
 6. PS make sure your managed game under settings points to the base TaleWorlds launcher - [example](https://i.imgur.com/F9vUdly.png)
 
 You are generally ready to play, but there are one or two configs that aren't saved globally and have to be set every time you start a new game, but that's for another section. 
+
 
 #### Playing Calradia Under Fire
 
