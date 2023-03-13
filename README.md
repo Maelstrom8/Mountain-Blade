@@ -10,6 +10,14 @@
  - [Information](#Information)
 - [Requirements & Installation](#requirements-and-installation)
 - [System Requirements](#system-requirements)
+- [Installing Wabbajack](#installing-wabbajack)
+- [Installing Calradia Under Fire](#installing-calradia-under-fire)
+- [Nexus Premium vs Non-Premium](#nexus-premium-vs-nonpremium)
+- [POST-INSTALLATION](#post-installation)
+- [Launching Calradia Under Fire](#launching-calradia-under-fire)
+- [FAQ](#FAQ)
+- [Bugs & Install Help](#bugs-and-install-help)
+- [Thanks & Credits](#thanks-and-credits)
 
 # Introduction
 
@@ -75,7 +83,7 @@ If you have Premium, WJ will request a Nexus login and use the api to download a
 
 
 
-## POST INSTALLATION (PLEASE READ)
+## POST INSTALLATION
 
 - If you don't do the steps in this category the game won't work.. uh.. yeah no it won't work.
 
@@ -103,7 +111,7 @@ If you have Premium, WJ will request a Nexus login and use the api to download a
 6. Profit!
 
 
-### Bugs / Install Help
+### Bugs & Install Help
 
 TBA
 
