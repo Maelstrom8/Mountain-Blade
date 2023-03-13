@@ -111,7 +111,7 @@ Go to where you installed the list, and open the folder labelled **GAME FILES FO
 
 1. Take `NovusLauncher` and copy it into your root game folder eg "F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord" - [example](https://i.imgur.com/R4HCPAh.png)
 2. Take `Configs` and copy it into your user documents eg ".\Documents\Mount and Blade II Bannerlord" - [example](https://i.imgur.com/xgL062d.png)
-3. Open `ModOrganizer2.exe` within the list's directory and navigate to the drop down menu on the top right, hit the arrow and hit `<Edit...>`
+3. Open `ModOrganizer.exe` within the list's directory and navigate to the drop down menu on the top right, hit the arrow and hit `<Edit...>`
 4. All the way to the left next to "Executables" is a plus sign, click it and select "add from file"
 5. Navigate to the `NovusLauncher.exe` you moved over to your Bannerlord folder, hit apply
 6. PS make sure your managed game under settings points to the base TaleWorlds launcher - [example](https://i.imgur.com/F9vUdly.png)
@@ -163,8 +163,8 @@ A: Kinda hard to say, but if you must know a little about me: I'm someone who do
 
 A: I can't tell you why I don't use mods, and the sort. It can be any reason, but I generally want to keep it simple, I've only tested so many mods.
 
-#### Q: Can I enable the NSFW mods like Hot Butter?
-A: Sure. They work, I just don't know if how well they work with this mod selection. You're on your own.
+#### Q: Can I enable the NSFW mods like Hot Butter? Captivity Events?
+A: Sure. They work, I just don't know how well they work with this mod selection, eg Banner Kings. You're kinda your own.
 
 ### Bugs
 
