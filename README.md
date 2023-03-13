@@ -6,7 +6,9 @@
 ---
 
 ## Contents
-- [Introduction] (#Introduction)
+- [Introduction](#Introduction)
+  -[Information](#Information)
+- [Requirements & Information](#requirements-and-information)
 
 # Introduction
 
@@ -16,8 +18,7 @@ Getting all that out of the way.. Calradia Under Fire is a dual purpose modlist.
 
 (This has nothing to do with the game Kingdoms: Under Fire)
 
-
-## Gameplay / Information
+## Information
 
 Calradia Under Fire ships with two load order presets (within Novus Launcher): **ModlistProfile** and **BasicEssentials**
 
@@ -31,10 +32,9 @@ Calradia Under Fire ships with two load order presets (within Novus Launcher): *
 
 - **BasicEssentials** is where the second purpose of the modlist comes in. Contains the bare minimum mods such as Harmony and what not. This is for advanced users to make their own load order based off the mods provided within MO2, not only that but allows me to make changes and test things. 
 
-
 If you would like to get a bit deeper into modifications and or learn more about the **main profile** - head on over to the [Modding Documentation](https://github.com/Maelstrom8/CalradiaUnderFire/blob/main/Documentation/Modding%20Documentation.md)
 
-# Requirements & Installation
+## Requirements & Installation
 
 You need to own a legitimate copy of Mount and Blade: Bannerlord - through Steam (I do not support anything else), which needs to be unmodified / clean. Delete the whole thing and or verify files if you run into any issues.
 
