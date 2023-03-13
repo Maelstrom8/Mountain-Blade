@@ -39,13 +39,8 @@ This modlist only works for version 1.1.0 of Bannerlord. Do not update to any be
 
 ## System Requirements
 
-| **CPU**   |Intel® Core™ i5-9600K / AMD Ryzen™ 5 3600X|  
-| **Graphics**  | NVIDIA GTX 1060 3GB / AMD Radeon™ RX 580|
-| **Memory**  | 8 GB RAM |
-
-Honestly I just copied this from the recommended specs from the Steam page. I expect you to have a decent PC in 2023, and I also recommend that you install this list on an SSD
-
-On top of having the base game installed (47GB), you must have an addtional 52GB of space for the modlist (16GB downloads + 36GB install)
+- See the recommended specs from the Steam page. I expect you to have a decent PC in 2023, and I also recommend that you install this list on an SSD. 
+- On top of having the base game installed (47GB), you must have an addtional 52GB of space for the modlist (16GB downloads + 36GB install)
 
 ### Installing Wabbajack
 
