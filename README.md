@@ -62,7 +62,10 @@ Additionally, if you do not have [.NET Desktop Runtime 6.0.14](https://dotnet.mi
 ### System Requirements
 
 - See the recommended specs from the Steam page. You don't need a 4090 but you are expected to have a decent PC in 2023, and are expected to have an SSD for games. I would actually hope you install this on an SSD.
-- You need 99GB of free space. Base game (47GB) + the downloads (16GB) + the install (36GB)
+
+- You need around 91GB of free space for this modlist
+   - 47GB for the base game, already installed separately
+   - 44GB for the modlist (16GB downloads + 28GB install)
 
 ## Wabbajack Installation
 
