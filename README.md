@@ -40,7 +40,7 @@ This modlist only works for version 1.1.0 of Bannerlord. Do not update to any be
 ## System Requirements
 
 | **CPU**   |  Intel® Core™ i5-9600K / AMD Ryzen™ 5 3600X   |  
-| **Graphics**    | NVIDIA GTX 1060 3GB / AMD Radeon™ RX 580  |
+| **Graphics**    | NVIDIA GTX 1060 3GB / AMD Radeon™ RX 580 |
 | **Memory**    | 8 GB RAM |
 
 Honestly I just copied this from the recommended specs from the Steam page. I expect you to have a decent PC in 2023, and I also recommend that you install this list on an SSD
@@ -80,13 +80,13 @@ If you have Premium, WJ will request a Nexus login and use the api to download a
 
 - If you don't do the steps in this category the game won't work.. uh.. yeah no it won't work.
 
-1. After you successfully installed the list, navigate to the folder you installed the list - ([example])(https://i.imgur.com/3rKIdRO.png)
+1. After you successfully installed the list, navigate to the folder you installed the list - [example](https://i.imgur.com/3rKIdRO.png)
 2. Inside there is a folder in big large caps "GAME FILES FOLDER", it consists of two folders; Configs and Novus Launcher. You need to manually move these.
 
 
-`Configs` is responsible for saved MCM configurations of mods. Copy the whole folder over to "YourUserName\Documents\Mount and Blade II Bannerlord\" - ((example)[https://i.imgur.com/oSyPZoS.png])
+`Configs` is responsible for saved MCM configurations of mods. Copy the whole folder over to "YourUserName\Documents\Mount and Blade II Bannerlord\" - [example](https://i.imgur.com/oSyPZoS.png)
 
-`Novus Launcher` .. is responsible for everything. Copy this folder to your ROOT Mount & Blade 2: Bannerlord folder - ([example])(https://i.imgur.com/vPIodfH.png)
+`Novus Launcher` .. is responsible for everything. Copy this folder to your ROOT Mount & Blade 2: Bannerlord folder - [example](https://i.imgur.com/vPIodfH.png)
 
 
 2. Launch Mod Organizer 2, navigate to the top left of the program. See the giant green RUN BUTTON? Don't click it, fucker. Next to it is a drop down box, expand it and hit `<Edit..>`
