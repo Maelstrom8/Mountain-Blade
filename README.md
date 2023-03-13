@@ -100,7 +100,6 @@ If you have Premium, WJ will request a Nexus login and use the api to download a
 3. All the way to the left next to Executables, hit the Plus sign - add from file. Navigate to your root game folder for Bannerlord and select the NovusLauncher.exe within its folder then hit apply.
 
 
-
 ### Launching Calradia Under Fire
 
 1. Launch the copy of Mod Organizer 2 found inside your Calradia Under Fire folder.
@@ -110,6 +109,9 @@ If you have Premium, WJ will request a Nexus login and use the api to download a
 5. ???
 6. Profit!
 
+### FAQ
+
+soon
 
 ### Bugs and Install Help
 
