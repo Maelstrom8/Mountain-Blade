@@ -81,28 +81,15 @@ If you have Premium, WJ will request a Nexus login and use the api to download a
 
 
 
-## POST INSTALLATION
+## Post Installation Setup 
 
-If you don't do the steps in this category the game won't work.. uh.. yeah no it won't work.
+#### Novus Launcher Installation
 
-- After you successfully installed the list, navigate to the folder you installed the list in - [example](https://i.imgur.com/3rKIdRO.png)
-- Inside there is a folder in big large caps called **GAME FILES FOLDER**, inside consists of two folders; *Configs* and *Novus Launcher*. You need to manually move these.
+gj2m4gj2g24ol24
 
-`Configs` is responsible for saved MCM configurations of mods. Copy the whole folder over to "YourUserName\My Documents\Mount and Blade II Bannerlord\" - [example](https://i.imgur.com/oSyPZoS.png)
+#### MCM Configs Installation
 
-`Novus Launcher` .. is responsible for everything. Copy this folder to your ROOT Mount & Blade 2: Bannerlord folder - [example](https://i.imgur.com/vPIodfH.png)
-
-- Launch Mod Organizer 2, navigate to the top left of the program. See the giant green RUN BUTTON? Don't click it, fucker. Next to it is a drop down box, expand it and hit `<Edit..>`
-- All the way to the left next to Executables, hit the Plus sign - add from file. Navigate to your root game folder for Bannerlord and select the NovusLauncher.exe within its folder then hit apply.
-
-### Launching Calradia Under Fire
-
-1. Launch the copy of Mod Organizer 2 found inside your Calradia Under Fire folder.
-2. In the top-right corner of Mod Organizer, you’ll see a large dropdown menu - open it. Select Novus Launcher. Click the large Run button.
-3. Within Novus Launcher, select only one preset from the top drop down. You should know what these are.
-4. Hit the green play button.
-5. ???
-6. Profit!
+whew62gw2ewh6hw
 
 ### FAQ
 
