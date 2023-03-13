@@ -16,7 +16,7 @@
 - [Post Installation](#post-installation)
 - [Launching Calradia Under Fire](#launching-calradia-under-fire)
 - [FAQ](#faq)
-- [Bugs and Install Help](#bugs-and-install-help)
+- [Bugs](#bugs)
 - [Thanks and Credits](#thanks-and-credits)
 
 # Introduction
