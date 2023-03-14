@@ -69,18 +69,21 @@ Additionally, if you do not have [.NET Desktop Runtime 6.0.14](https://dotnet.mi
 
 ## Wabbajack Installation
 
-Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases). Place it in a folder such as `C:\Wabbajack`. Do not extract it to any of your Steam Library directories nor your game root folder. Do not extract it to locations such as Program Files, or User Directories like Documents, Downloads and so forth.
+Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases). Install in a folder such as `C:\Wabbajack`. Do not install it to any of your Steam Library directories nor your game root folder. Do not extract it to locations such as Program Files, or User Directories like Documents, Downloads and so forth.
 
 ### Downloading and Installing Calradia Under Fire
 
 1. Open Wabbajack and click `Browse Modlists`
 2. Tick on the `Show Unofficial lists` option in the top right corner of Wabbajack
 3. Filter by Mount & Blade II: Bannerlord. Click the download button below the gallery image and wait for it to download.
-4. Set the installation folder, following the directory rules above. For example, I have an NVME drive, and I have my Wabbajack installation on it, then separate from it I have another folder called "Wabbajack lists" which is where I install modlists
-5. Press the play button to begin.
-6. In the small time it takes to install, I recommend you spend your time reading this readme - as it's more important than your average readme
-7. ???
-8. Profit
+4. Either select `Install From Disk` or wait for Wabbajack to automatically switch to the modlist installing tab.
+5. You'll be prompted with a window to select where to install the modlist and its resource downloads, here is an example. I have it on my `F Drive` which is a separate NVME SSD.
+
+![Wabbajack_YnKGZnRdGu](https://user-images.githubusercontent.com/17627623/224857931-cf99d6f9-585c-467f-8a52-8dcb3e643845.png)
+
+`Target Modlist` should be automated, based on if you installed from disk or installed from the gallery.
+`Modlist Installation Location` should be anywhere but your Steam Library, Program Files or User Directories like My Documents, Downloads etc
+`Modlist Resource Downloads` should follow the same rules but they do not have to be in the same folder. It's recommended you have your downloads on a fast drive.
 
 ### Installation Issues
 
