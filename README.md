@@ -82,7 +82,9 @@ Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wa
 ![Wabbajack_YnKGZnRdGu](https://user-images.githubusercontent.com/17627623/224857931-cf99d6f9-585c-467f-8a52-8dcb3e643845.png)
 
 `Target Modlist` should be automated, based on if you installed from disk or installed from the gallery.
+
 `Modlist Installation Location` should be anywhere but your Steam Library, Program Files or User Directories like My Documents, Downloads etc
+
 `Modlist Resource Downloads` should follow the same rules but they do not have to be in the same folder. It's recommended you have your downloads on a fast drive.
 
 ### Installation Issues
