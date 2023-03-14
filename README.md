@@ -102,7 +102,7 @@ You may run into some issues with Wabbajack, here are some common ones
 
 ### Nexus Premium vs Non-Premium
 
-If you have Premium, WJ will request a Nexus login and use the api to download all mods automatically. Without Premium, you'll be prompted to manually download the mods. Who are you kidding, it's like 16GB, you don't need it homie.
+If you have Premium, WJ will request a Nexus login and use the api to download all mods automatically. Without Premium, you'll be prompted to manually download the mods. Even though it's around 16GB, you are in for a fun time. You will have to hit the download button for a little over 100 mods. Good luck.
 
 
 
