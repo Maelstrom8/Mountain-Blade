@@ -102,7 +102,7 @@ You may run into some issues with Wabbajack, here are some common ones
 
 ### Nexus Premium vs Non-Premium
 
-If you have Premium, WJ will request a Nexus login and use the api to download all mods automatically. Without Premium, you'll be prompted to manually download the mods. Even though it's around 16GB, you are in for a fun time. You will have to hit the download button for a little over 100 mods. Good luck.
+If you have Premium, WJ will request a Nexus login and use the api to download all mods automatically. Without Premium, you'll be prompted to manually all the mods. Manually downloading ~125 mods is nowhere as bad as downloading a Skyrim Modlist without premium, but it is still manual. Get Nexus Premium if you don't like hitting download over 100 times.
 
 
 
