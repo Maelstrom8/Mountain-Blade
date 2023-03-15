@@ -2,15 +2,16 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Calradia Under Fire",
-    "description": "A dual purpose modlist for the v1.1.1 version of Mount & Blade II: Bannerlord which makes use of a mod tool called Novus Launcher that allows players to make and customize load order presets.",
+    "description": "A moderately packed and moderately challenging modlist for the v1.1.1 version of Mount & Blade II: Bannerlord, featuring mods such as Banner Kings, Realistic Battle Mod, Dismemberment Plus and much more.",
     "author": "Maelstrom",
     "maintainers": [
       "github/Maelstrom8"
     ],
     "game": "mountandblade2bannerlord",
     "tags": [
-      "Not Lore Friendly",
-      "Combat and AI Overhaul",
+      "Realistic Battle Mod",
+      "Banner Kings",
+      "Overhaul",
       "Dismemberment"
     ],
     "nsfw": false,
@@ -22,17 +23,17 @@
       "readme": "https://github.com/Maelstrom8/CalradiaUnderFire",
       "download": "TBA",
       "machineURL": "calradiaunderfire",
-      "discordURL": "TBA"
+      "discordURL": "https://discord.gg/wakingdreams"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "zZIkWop5bXY=",
-      "Size": 3887583,
-      "NumberOfArchives": 129,
-      "SizeOfArchives": 17374126496,
-      "NumberOfInstalledFiles": 11370,
-      "SizeOfInstalledFiles": 29940589166
+      "Hash": "yiY8uHcced0=",
+      "Size": 3897690,
+      "NumberOfArchives": 128,
+      "SizeOfArchives": 17370429472,
+      "NumberOfInstalledFiles": 11420,
+      "SizeOfInstalledFiles": 29944584872
     },
-    "version": "1.0"
+    "version": "1.2"
   }
 ]
