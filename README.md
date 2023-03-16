@@ -110,6 +110,8 @@ If you have Premium, WJ will request a Nexus login and use the api to download a
 
 You can update the list the same way you install it, just be sure to check [the changelog](https://github.com/Maelstrom8/CalradiaUnderFire/blob/main/Changelog.md) first. **DO NOT** manually update mods, unless you know what you're doing and you know how I made them, which you likely don't. I changed some mods around a little, so if you update them manually.. there could be an issue (eg. the RBM patches section)
 
+Also, until Stock Game is available, every update you will have to change the MO2 paths, mainly for Novus Launcher.
+
 
 # Post Installation Setup 
 
