@@ -21,18 +21,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Maelstrom8/CalradiaUnderFire/main/Images/4277-1665765591-334181290.jpeg",
       "readme": "https://github.com/Maelstrom8/CalradiaUnderFire",
-      "download": "https://authored-files.wabbajack.org/Calradia Under Fire.wabbajack_dc48e768-1890-42a9-b921-b4e232d7a025",
+      "download": "https://authored-files.wabbajack.org/Calradia Under Fire.wabbajack_87891948-3c77-4379-9d7b-de3bb79bac6c",
       "machineURL": "Maelstrom8/calradiaunderfire",
       "discordURL": "https://discord.gg/wakingdreams"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "OLhaOAYQmeE=",
-      "Size": 3897711,
+      "Hash": "ktoaoEY5JeM=",
+      "Size": 3897964,
       "NumberOfArchives": 128,
       "SizeOfArchives": 17370429472,
       "NumberOfInstalledFiles": 11420,
-      "SizeOfInstalledFiles": 29944584885
+      "SizeOfInstalledFiles": 29944586232
     },
     "version": "1.2"
   }
