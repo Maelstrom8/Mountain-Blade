@@ -120,8 +120,13 @@ Since I don't use the Stock Game folder, as it's not supported yet, paths aren't
 
 https://user-images.githubusercontent.com/17627623/225478406-c5bf10ac-3b6c-45fb-9924-49e40c55b952.mp4
 
+------------------------------------------------------------------------------------------------------
 
-**ALSO**, double check your managed game points to the vanilla TW launcher, it should be something like `F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\bin\Win64_Shipping_Client\TaleWorlds.MountAndBlade.Launcher.exe`
+PS: Double check your managed game points to the vanilla TW launcher, it should be something like `F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\bin\Win64_Shipping_Client\TaleWorlds.MountAndBlade.Launcher.exe`
+
+
+
+
 
 
 Now, go to where you installed the list, and open the folder labelled **GAME FILES FOLDER** - these NEED to be extracted to specific locations
