@@ -15,7 +15,7 @@
         - Useful Companions (Mod Version 0.4.7 to 0.5.1)
         - Banner Color Persistance (Mod Version 1.4.3 to 1.4.5)
 
-- **Mods Added to MO2 (Need Testing)**
+- **Mods Added Only To MO2 (Need Testing)**
   - Better Attributes
   - Better HUD
   - Pacemaker Updated
