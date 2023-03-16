@@ -117,8 +117,8 @@ You can update the list the same way you install it, just be sure to check [the 
 
 If you haven't done these steps, do them. Go to where you installed the list, and find the folder named **GAME FILES FOLDER** - open them up, you will see two folders, `Configs` and `NovusLauncher`
 
-- Copy the **NovusLauncher** folder into the game's [Root Game Directory](https://i.imgur.com/R4HCPAh.png). Example: "F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord"
-- Copy the **Configs** folder into the game's [User Documents Directory](https://i.imgur.com/xgL062d.png). Example: "*username*\Documents\Mount and Blade II Bannerlord"
+- Copy the **NovusLauncher** folder into the game's [Root Game Directory](https://i.imgur.com/R4HCPAh.png). Example provided.
+- Copy the **Configs** folder into the game's [User Documents Directory](https://i.imgur.com/xgL062d.png). Example provided.
 
 Since I don't use the Stock Game folder, as it's not supported yet, paths aren't exactly saved, so go do the following to quickly fix your paths:
 
