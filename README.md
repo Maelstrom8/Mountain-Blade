@@ -117,10 +117,8 @@ You can update the list the same way you install it, just be sure to check [the 
 
 If you haven't done these steps, do them. Go to where you installed the list, and find the folder named **GAME FILES FOLDER** - open them up, you will see two folders, `Configs` and `NovusLauncher`
 
-- **NovusLauncher**
-   - Copy this into your [root game folder](https://i.imgur.com/R4HCPAh.png). Example: "F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord"
-- **Configs**
-   - Copy it into your [User Documents folder](https://i.imgur.com/xgL062d.png) for the game. Example: "*username*\Documents\Mount and Blade II Bannerlord"
+- Copy the **NovusLauncher** folder into the game's [Root Game Directory](https://i.imgur.com/R4HCPAh.png). Example: "F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord"
+- Copy the **Configs** folder into the game's [User Documents Directory](https://i.imgur.com/xgL062d.png). Example: "*username*\Documents\Mount and Blade II Bannerlord"
 
 Since I don't use the Stock Game folder, as it's not supported yet, paths aren't exactly saved, so go do the following to quickly fix your paths:
 
@@ -129,7 +127,7 @@ https://user-images.githubusercontent.com/17627623/225478406-c5bf10ac-3b6c-45fb-
 
 ------------------------------------------------------------------------------------------------------
 1. Using the video above, add `NovusLauncher.exe` as an executable (Use the plus sign, and navigiate to your root game folder where you extracted it, select the exe, hit apply)
-2. Make sure your managed game under settings points to the base [TaleWorlds launcher](https://i.imgur.com/F9vUdly.png) 
+2. Make sure your managed game under settings points to the base [TaleWorlds Launcher](https://i.imgur.com/F9vUdly.png) 
 3. Additionally, if you **want** [Adonnay's really cool Exotic Weaponry](https://www.nexusmods.com/mountandblade2bannerlord/mods/2620) to be added to the tournament prize pool, please navigate to the incovenient location known as `C:\ProgramData\Mount & Blade II: Bannerlord\AEW` and modify `AEW.settings.xml`, so the values are *true* instead of *false*. If you don't see the folder, google "how 2 show hidden files, folders and drives".
 
 You are generally ready to play, but there are one or two configs that aren't saved globally and have to be set every time you start a new game.
