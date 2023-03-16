@@ -31,7 +31,7 @@ Calradia Under Fire ships with two Noxus Launcher presets. One is meant to be th
 
 ## Information
 
-`ModlistProfile` is the main profile, the modlist itself, which consists of about 60 mods and is what the standard user should select. It is focused around Realistic Battle Mod & Banner Kings. Features include the troop overhaul Warlords Battlefield, armors such as Open Source Armory, Swadian Armory, Vaegir Armory and many other QoL mods.
+`CalradiaUnderFire` is the main profile, the modlist itself, which consists of about 60 mods and is what the standard user should select. It is focused around Realistic Battle Mod & Banner Kings. Features include the troop overhaul Warlords Battlefield, armors such as Open Source Armory, Swadian Armory, Vaegir Armory and many other QoL mods.
 
 - Here is a small list of the more important mods I use, feel free to look up on them
    - [Realistic Battle Mod](https://www.nexusmods.com/mountandblade2bannerlord/mods/791) is the method of choice (for now) for overhauling the combat, specifically weapon and armor calculation.
@@ -39,13 +39,12 @@ Calradia Under Fire ships with two Noxus Launcher presets. One is meant to be th
    - [Open Source Armory](https://www.nexusmods.com/mountandblade2bannerlord/mods/2829) is one of the largest armor collections to date on Nexus, and kinda a little bloated but it has overall good armor in it.
    - [Neated's NPC Upgrade Equipment](https://www.nexusmods.com/mountandblade2bannerlord/mods/4516) is a nice little mod that makes use of the armory mods I have. 
    - [Warlords Battlefield](https://www.nexusmods.com/mountandblade2bannerlord/mods/4277) is the troop overhaul of my pick. I really do not like the virgin troop trees of vanilla game.
+   - [RTS Camera + Command System](https://github.com/Norbivar/RTSCamera) are two mods that allow better camera control and features in battle such as controlling troops after death, commanding your troops to attack formations, slow motion, etc
    - [Dismemberment Plus](https://www.nexusmods.com/mountandblade2bannerlord/mods/2190) should be self explanatory
    - [Xorberax's Legacy](https://www.nexusmods.com/mountandblade2bannerlord/mods/3462) has mini-modules in it, but I mostly use it for the ability to enable weapons to cut through everyone
    - [Novus Launcher](https://www.nexusmods.com/mountandblade2bannerlord/mods/4924) well.. self explanatory
 
 `BasicEssentials` is where the second purpose of the modlist comes in. Contains the bare minimum mods such as Harmony and what not. This is for advanced users to make their own load order based off the mods provided within MO2, or to mess around and test mods without affecting the main one.
-
-If you would like to get a bit deeper into modifications - head on over to the [Modding Documentation](https://github.com/Maelstrom8/CalradiaUnderFire/blob/main/Documentation/Modding%20Documentation.md)
 
 ### Requirements & Installation
 
@@ -107,7 +106,6 @@ You may run into some issues with Wabbajack, here are some common ones
 If you have Premium, WJ will request a Nexus login and use the api to download all mods automatically. Without Premium, you'll be prompted to manually download all the mods. There are 126 mods to download, and while only a small number of them contribute to the total size (16GB), you still have over 80 mods that are incredibly small in size to manually download when prompted in Wabbajack. If you don't like this, get Nexus Premium I dunno.
 
 
-
 ## Updating the list
 
 You can update the list the same way you install it, just be sure to check [the changelog](https://github.com/Maelstrom8/CalradiaUnderFire/blob/main/Changelog.md) first. **DO NOT** manually update mods, unless you know what you're doing and you know how I made them, which you likely don't. I changed some mods around a little, so if you update them manually.. there could be an issue (eg. the RBM patches section)
@@ -115,7 +113,14 @@ You can update the list the same way you install it, just be sure to check [the 
 
 # Post Installation Setup 
 
-### Mod Organizer 2, Novus Launcher and MCM Configs 
+### First Time Setups
+
+If you haven't done these steps, do them. Go to where you installed the list, and find the folder named **GAME FILES FOLDER** - open them up, you will see two folders, `Configs` and `NovusLauncher`
+
+- **NovusLauncher**
+   - Copy this into your [root game folder](https://i.imgur.com/R4HCPAh.png). Example: "F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord"
+- **Configs**
+   - Copy it into your [User Documents folder](https://i.imgur.com/xgL062d.png) for the game. Example: "*username*\Documents\Mount and Blade II Bannerlord"
 
 Since I don't use the Stock Game folder, as it's not supported yet, paths aren't exactly saved, so go do the following to quickly fix your paths:
 
@@ -123,40 +128,31 @@ Since I don't use the Stock Game folder, as it's not supported yet, paths aren't
 https://user-images.githubusercontent.com/17627623/225478406-c5bf10ac-3b6c-45fb-9924-49e40c55b952.mp4
 
 ------------------------------------------------------------------------------------------------------
+1. Using the video above, add `NovusLauncher.exe` as an executable (Use the plus sign, and navigiate to your root game folder where you extracted it, select the exe, hit apply)
+2. Make sure your managed game under settings points to the base [TaleWorlds launcher](https://i.imgur.com/F9vUdly.png) 
+3. Additionally, if you **want** [Adonnay's really cool Exotic Weaponry](https://www.nexusmods.com/mountandblade2bannerlord/mods/2620) to be added to the tournament prize pool, please navigate to the incovenient location known as `C:\ProgramData\Mount & Blade II: Bannerlord\AEW` and modify `AEW.settings.xml`, so the values are *true* instead of *false*. If you don't see the folder, google "how 2 show hidden files, folders and drives".
 
+You are generally ready to play, but there are one or two configs that aren't saved globally and have to be set every time you start a new game.
 
-Now, go to where you installed the list, and open the folder labelled **GAME FILES FOLDER** - these NEED to be extracted to specific locations
+1. Launch the game by running Novus Launcher through MO2
+2. Make sure `CalradiaUnderFire` is selected under at the top of the Novus Launcher and then hit the green Play button.
+3. Adjust the following:
 
-1. Take `NovusLauncher` and copy it into your root game folder eg "F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord" - [example](https://i.imgur.com/R4HCPAh.png)
-2. Take `Configs` and copy it into your user documents eg ".\Documents\Mount and Blade II Bannerlord" - [example](https://i.imgur.com/xgL062d.png)
-3. Open `ModOrganizer.exe` within the list's directory and navigate to the drop down menu on the top right, hit the arrow and hit `<Edit...>`
-4. All the way to the left next to "Executables" is a plus sign, click it and select "add from file"
-5. Navigate to the `NovusLauncher.exe` you moved over to your Bannerlord folder, hit apply
-6. PS make sure your managed game under settings points to the base TaleWorlds launcher - [example](https://i.imgur.com/F9vUdly.png)
-7. Additionally, if you **want** [Adonnay's really cool Exotic Weaponry](https://www.nexusmods.com/mountandblade2bannerlord/mods/2620) to be added to the tournament prize pool, please navigate to the incovenient location known as `C:\ProgramData\Mount & Blade II: Bannerlord\AEW` and modify `AEW.settings.xml`, so the values are *true* instead of *false*. If you don't see the folder, google "how 2 show hidden files, folders and drives".
+- **Improved Garrisons**
+   - Press Left Alt + G, go to `NPC Settings` and make sure it looks like [this](https://i.imgur.com/BkdUc12.jpeg). Do not enable food module(s)
+- **Governors Handle Issues**
+   - Make sure `AI Clan Governors Handles Issues` is enabled under the mod's MCM options.
 
-You are generally ready to play, but there are one or two configs that aren't saved globally and have to be set every time you start a new game, but that's for another section. 
-
-
-#### Playing Calradia Under Fire
-
-1. Navigate to your installed modlist folder and double-click on `ModOrganizer.exe`
-2. Make sure Novus Launcher is selected as the launcher and hit run - [example](https://i.imgur.com/6dW3cwd.png)
-3. Make sure `ModlistProfile` is selected under Novus Launcher if you want to play the main one - [example](https://i.imgur.com/clS9och.png)
-
-If you're using the main profile, there are some **important** additional steps you need to take, because some configs are only saved on a per save basis.
-
-- Upon a new save, hit left alt + G, go to NPC Settings and make sure it looks like [this](https://i.imgur.com/BkdUc12.jpeg) - do not enable food modules
-- Make sure `AI Clan Governers Handles Issues` is enabled under the mod `Governers Handle Issues` - this can be done from the main menu or ESC > Options > Mod Options
-
-**By the way, there reasons why some options are disabled in the MCM options of mods. Do not enable them.**
+*By the way, there reasons why some options are disabled in the MCM options of mods. Do not enable them.*
 
 - Realistic Battle Mod
-   - **The Tournament Module** is disabled because I use a Troop Overhaul such as **Warlords Battlefield**
+   - **The Tournament Module** is disabled because to ensure compability with **Banner Kings**
+   - **Troop Overhaul** is disabled because I use the troop overhaul **Warlords Battlefield**, which use their own RBM gear.
 - Xorberax Legacy
-   - **Deadly Combat**, **Deadly Horse Charge** and **Friendly Fire** are disabled to ensure compatibility with **Banner Kings**
+   - **Deadly Combat**, **Deadly Horse Charge** and **Friendly Fire** are disabled to ensure compatibility with **Realistic Battle Mod**
+   - Also **Friendly Fire** doesn't even work
 - Improved Garrisons
-   - **Food Module(s)** in the LAlt + G settings are supposed to be disabled to ensure compatibility with **Banner Kings**
+   - **Food Module(s)** in the Left Alt + G settings are supposed to be disabled to ensure compatibility with **Banner Kings**
 
 The rest of the changes are a work in progress, untested or personal balance changes I felt were okay.
 
