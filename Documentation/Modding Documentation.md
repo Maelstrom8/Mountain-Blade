@@ -14,7 +14,7 @@ This page is an info dump for content that revolves around mods or modding in ge
 
 Any mod that affects stats of bows, crossbows, arrows and bolts is not compatible with the combat module. Any mod that adds armors and/or weapons is NOT compatible with Combat Module unless there is a RBM patch for it.
 
-**Personal Notes**
+**Personal Notes**:
 
 It's a bloated mod, but thankfully it consists of a Combat Module and an AI Module, the AI Module is a must-have and can be used with other combat mods.
 
