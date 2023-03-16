@@ -120,7 +120,7 @@ If you haven't done these steps, do them. Go to where you installed the list, an
 - Copy the **NovusLauncher** folder into the game's [Root Game Directory](https://i.imgur.com/R4HCPAh.png). Example provided.
 - Copy the **Configs** folder into the game's [User Documents Directory](https://i.imgur.com/xgL062d.png). Example provided.
 
-Since I don't use the Stock Game folder, as it's not supported yet, paths aren't exactly saved, so go do the following to quickly fix your paths:
+Since I don't use the Stock Game folder, as it's not supported yet, paths aren't exactly saved from updates/compiles, so go do the following to quickly fix your paths:
 
 
 https://user-images.githubusercontent.com/17627623/225478406-c5bf10ac-3b6c-45fb-9924-49e40c55b952.mp4
