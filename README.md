@@ -20,6 +20,7 @@
 - [FAQ](#faq)
 - [Bugs](#bugs)
 - [Thanks and Credits](#thanks-and-credits)
+- [Mount & Blade II: Bannerlord](#mount-&-blade-ii-:-bannerlord)
 
 # Introduction
 
@@ -215,3 +216,5 @@ Lastly.. If you run into any crashes, make sure you can reproduce it at least 3 
 - Bannerlord modding community for turning a framework into a damn house
 - Halgari - for making Wabbajack. Wouldn't have been possible otherwise.
 - You, made you look.
+
+### Mount & Blade II: Bannerlord
