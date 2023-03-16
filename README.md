@@ -20,7 +20,7 @@
 - [FAQ](#faq)
 - [Bugs](#bugs)
 - [Thanks and Credits](#thanks-and-credits)
-- [Mount & Blade II: Bannerlord](#mount-and-blade-ii:-bannerlord)
+- [Mount & Blade II: Bannerlord](#mount-&-blade-II:-bannerlord)
 
 # Introduction
 
