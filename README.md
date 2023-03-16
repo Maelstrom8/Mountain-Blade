@@ -124,12 +124,6 @@ https://user-images.githubusercontent.com/17627623/225478406-c5bf10ac-3b6c-45fb-
 
 ------------------------------------------------------------------------------------------------------
 
-PS: Double check your managed game points to the vanilla TW launcher, it should be something like `F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\bin\Win64_Shipping_Client\TaleWorlds.MountAndBlade.Launcher.exe`
-
-
-
-
-
 
 Now, go to where you installed the list, and open the folder labelled **GAME FILES FOLDER** - these NEED to be extracted to specific locations
 
