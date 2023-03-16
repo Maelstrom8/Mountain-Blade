@@ -19,7 +19,7 @@
    - [Playing Calradia Under Fire](#playing-calradia-under-fire)
 - [FAQ](#faq)
 - [Bugs](#bugs)
-- [Thanks & Credits](#thanks-credits)
+- [Thanks & Credits](#thanks&credits)
 - [Mount & Blade II: Bannerlord](#mount-&-blade-II:-bannerlord)
 
 # Introduction
