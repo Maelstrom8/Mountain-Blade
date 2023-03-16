@@ -6,24 +6,20 @@
 
 # 1.2.1
 
-### **Primary Modlist (Also known as the preset CalradiaUnderFire.xml)**
+- **Calradia Under Fire (CalradiaUnderFire.xml)**
+    - **Added Mods**
+        - Battle Minimap
+    - **Removed Mods**
+        - Bannerlord Cheats (it is still in MO2)
+    - **Updated Mods**
+        - Useful Companions (Mod Version 0.4.7 to 0.5.1)
+        - Banner Color Persistance (Mod Version 1.4.3 to 1.4.5)
 
-**Added Mods**
-- Battle Minimap
-
-**Removed Mods**
-- Bannerlord Cheats (it is still in MO2)
-
-**Updated Mods**
-- Useful Companions (Mod Version 0.4.7 to 0.5.1)
-- Banner Color Persistance (Mod Version 1.4.3 to 1.4.5)
-
-### **Mods Added to MO2 (Need Testing)**
-
-- Better Attributes
-- Better HUD
-- Pacemaker Updated
-- Calradian Banners Improved
+- **Mods Added to MO2 (Need Testing)**
+  - Better Attributes
+  - Better HUD
+  - Pacemaker Updated
+  - Calradian Banners Improved
 
 **Developer Notes**
 
