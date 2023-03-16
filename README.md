@@ -113,9 +113,15 @@ You can update the list the same way you install it, just be sure to check [the 
 
 # Post Installation Setup 
 
-#### Novus Launcher and MCM Configs 
+#### Mod Organizer 2, Novus Launcher and MCM Configs 
 
-Go to where you installed the list, and open the folder labelled **GAME FILES FOLDER** 
+Since I don't use the Stock Game folder, as it's not supported yet, paths aren't exactly saved, so go do the following to quickly fix your paths:
+
+https://user-images.githubusercontent.com/17627623/225478406-c5bf10ac-3b6c-45fb-9924-49e40c55b952.mp4
+
+**ALSO**, double check your managed game points to the vanilla TW launcher, it should be something like `F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\bin\Win64_Shipping_Client\TaleWorlds.MountAndBlade.Launcher.exe`
+
+Now, go to where you installed the list, and open the folder labelled **GAME FILES FOLDER** - these NEED to be extracted to specific locations
 
 1. Take `NovusLauncher` and copy it into your root game folder eg "F:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord" - [example](https://i.imgur.com/R4HCPAh.png)
 2. Take `Configs` and copy it into your user documents eg ".\Documents\Mount and Blade II Bannerlord" - [example](https://i.imgur.com/xgL062d.png)
@@ -123,6 +129,7 @@ Go to where you installed the list, and open the folder labelled **GAME FILES FO
 4. All the way to the left next to "Executables" is a plus sign, click it and select "add from file"
 5. Navigate to the `NovusLauncher.exe` you moved over to your Bannerlord folder, hit apply
 6. PS make sure your managed game under settings points to the base TaleWorlds launcher - [example](https://i.imgur.com/F9vUdly.png)
+7. Additionally, if you **want** [Adonnay's really cool Exotic Weaponry](https://www.nexusmods.com/mountandblade2bannerlord/mods/2620) to be added to the tournament prize pool, please navigate to the incovenient location known as `C:\ProgramData\Mount & Blade II: Bannerlord\AEW` and modify `AEW.settings.xml`, so the values are *true* instead of *false*. If you don't see the folder, google "how 2 show hidden files, folders and drives".
 
 You are generally ready to play, but there are one or two configs that aren't saved globally and have to be set every time you start a new game, but that's for another section. 
 
