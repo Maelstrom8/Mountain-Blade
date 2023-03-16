@@ -6,7 +6,7 @@
 
 # 1.2.1
 
-## **Primary Modlist (Also known as the preset CalradiaUnderFire.xml)**
+#### **Primary Modlist (Also known as the preset CalradiaUnderFire.xml)**
 
 **Added Mods**
 - Battle Minimap
@@ -18,7 +18,7 @@
 - Useful Companions (Mod Version 0.4.7 to 0.5.1)
 - Banner Color Persistance (Mod Version 1.4.3 to 1.4.5)
 
-## **Mods Added to MO2 (Need Testing)**
+#### **Mods Added to MO2 (Need Testing)**
 
 - Better Attributes
 - Better HUD
@@ -35,7 +35,7 @@ I don't think Better HUD needs testing, but people are free to add it in themsel
 
 **Initial Release**
 
-**Primary Modlist** (also known as the preset called CalradiaUnderFire)
+## **Primary Modlist** (also known as the preset called CalradiaUnderFire)
 - Achievement Unblocker
 - No Safe Mode Prompt
 - Bannerboard
