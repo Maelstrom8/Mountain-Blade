@@ -122,8 +122,9 @@ If you haven't done these steps, do them. Go to where you installed the list, an
 
 Since I don't use the Stock Game folder, as it's not supported yet, paths aren't exactly saved from updates/compiles, so go do the following to quickly fix your paths:
 
+https://user-images.githubusercontent.com/17627623/225754253-6d9c6060-e11b-47ca-9b07-776252373dd6.mp4
 
-https://user-images.githubusercontent.com/17627623/225478406-c5bf10ac-3b6c-45fb-9924-49e40c55b952.mp4
+
 
 ------------------------------------------------------------------------------------------------------
 1. Using the video above, add `NovusLauncher.exe` as an executable (Use the plus sign, and navigiate to your root game folder where you extracted it, select the exe, hit apply)
