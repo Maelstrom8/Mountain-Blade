@@ -100,6 +100,8 @@ You may run into some issues with Wabbajack, here are some common ones
 - Not an issue but you're installing it on an HDD and it's awfully slow
    - Get an SSD
 
+**OFFICIAL SUPPORT** IS PROVIDED OVER AT THE [WAKING DREAMS](https://discord.gg/wakingdreams) DISCORD
+
 ### Nexus Premium vs Non-Premium
 
 If you have Premium, WJ will request a Nexus login and use the api to download all mods automatically. Without Premium, you'll be prompted to manually download all the mods. There are 126 mods to download, and while only a small number of them contribute to the total size (16GB), you still have over 80 mods that are incredibly small in size to manually download when prompted in Wabbajack. If you don't like this, get Nexus Premium I dunno.
@@ -182,16 +184,32 @@ A: This is a combined result of using a troop overhaul such as Warlords Battlefi
 A: This question was like a 5 minute observation, but incase people think they might be making too much dineros.. No. I feel it'll balance out in the long run, especially with Banner Kings, Royal Armory's admission costs and what not. I generally don't care if it seems like too much, though.
 
 #### Q: Why do you use this mod over that mod? Why DON'T you use this or that mod?
-A: Kinda hard to say, but if you must know a little about me: I'm someone who doesn't really care too much about balance and or restriction, I like power fantasy. For example, I like big dick troop trees, which is why I picked Warlords Battlefield. I don't care too much for lore friendly stuff. There is a reason why I included the Bannerlord Cheats mod :D
+A: Kinda hard to say, but if you must know a little about me: I'm someone who doesn't really care too much about balance and or restriction, I like power fantasy. For example, I like big dick troop trees, which is why I picked Warlords Battlefield. I don't care too much for lore friendly stuff. There is reason why I included the Bannerlord Cheats mod :D
 
 A: I can't tell you why I don't use mods, and the sort. It can be any reason, but I generally want to keep it simple, I've only tested so many mods.
 
 #### Q: Can I enable the NSFW mods like Hot Butter? Captivity Events?
 A: Sure. They work, I just don't know how well they work with this mod selection, eg Banner Kings. You're kinda your own.
 
+#### Q: Why is my game crashing? 
+A: I dunno. Do you have a Butterlib Log? Join the [Waking Dreams](https://discord.gg/wakingdreams) server, and post in the support channel. I don't do support on my readme.
+
 ### Bugs
 
-wip
+At the time of the writing, there's only a few things to keep note of:
+
+- Campaign AI might have some trouble with navigation, but Bannerlord is also known for being unfinish- I mean AI being brain-dead.
+- I'm not sure if it's affected by my troop overhaul, but some quests that require you to go after Deserters may not show up because of it.. still testing
+
+It's honestly hard to get a list of bugs because Bannerlord is built different, they'll come only when you play more and I haven't really.. played a lot, but if you'd like to experiment to see if you will crash, I'd appreciate people doing the following:
+
+- Spam the fuck out of RTS Camera in combat, use slow motion, control your troops after death
+- Dismember your enemies, go hard
+- Use everything in the town menu(s)
+- Try to trade and go into the smithy constantly
+- Run around the map like a maniac, go from villages to settlements (for example, this consistently crashed War and AI Tweaks so I removed it)
+
+Lastly.. If you run into any crashes, make sure you can reproduce it at least 3 times, click the dialog that says something like "show in Butterlib", and then hit `Upload Report as a Permalink`, copy it, join [Waking Dreams Discord Server](https://discord.gg/wakingdreams) and post in the respective support channel.
 
 ### Thanks and Credits
 
