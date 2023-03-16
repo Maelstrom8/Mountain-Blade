@@ -197,10 +197,13 @@ At the time of the writing, there's only a few things to keep note of:
 
 It's honestly hard to get a list of bugs because Bannerlord is built different, they'll come only when you play more and I haven't really.. played a lot, but if you'd like to experiment to see if you will crash, I'd appreciate people doing the following:
 
-- Spam the fuck out of RTS Camera in combat, use slow motion, control your troops after death
+- Spam/use the fuck out of RTS Camera in combat, use slow motion, control your troops after death, change teams, all that
+- Adjust Realistic Weather so the weather is rougher
+- Adjust the Better Smithing MCM (untested)
 - Dismember your enemies, go hard
-- Use everything in the town menu(s)
-- Try to trade and go into the smithy constantly
+- Use everything in the town menu(s) (eg tavern, trade, etc)
+- Use Fourburie stuff in towns (eg the Scam button, etc)
+- Try to trade and go into the smithy constantly, make stuff, make a living
 - Run around the map like a maniac, go from villages to settlements (for example, this consistently crashed War and AI Tweaks so I removed it)
 
 Lastly.. If you run into any crashes, make sure you can reproduce it at least 3 times, click the dialog that says something like "show in Butterlib", and then hit `Upload Report as a Permalink`, copy it, join [Waking Dreams Discord Server](https://discord.gg/wakingdreams) and post in the respective support channel.
