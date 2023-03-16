@@ -19,7 +19,7 @@
    - [Playing Calradia Under Fire](#playing-calradia-under-fire)
 - [FAQ](#faq)
 - [Bugs](#bugs)
-- [Thanks and Credits](#thanks-and-credits)
+- [Thanks & Credits](#thanks-&-credits)
 - [Mount & Blade II: Bannerlord](#mount-&-blade-II:-bannerlord)
 
 # Introduction
@@ -209,7 +209,7 @@ It's honestly hard to get a list of bugs because Bannerlord is built different, 
 
 Lastly.. If you run into any crashes, make sure you can reproduce it at least 3 times, click the dialog that says something like "show in Butterlib", and then hit `Upload Report as a Permalink`, copy it, join [Waking Dreams Discord Server](https://discord.gg/wakingdreams) and post in the respective support channel.
 
-### Thanks and Credits
+### Thanks & Credits
 
 - Bloc for making great mods, specifically Novus Launcher
 - TW for making a great framework
