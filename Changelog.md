@@ -1,6 +1,43 @@
 
 # Changelog
 - [1.2](#1.2)
+- [1.5](#1.5)
+
+
+
+
+# 1.5
+
+- **MO2 Changes**
+    - **Added** 
+        - Breakable Polearms
+        - Battle Minimap
+        - Better Attributes
+        - Better HUD
+        - Calradian Banners Improved
+        - Pacemaker Updated
+        - Transmog - Cosmetic Equipment
+     - **Updated Mods**
+        - Useful Companions (Mod Version 0.4.7 > 0.5.1)
+        - Banner Color Persistance (Mod Version 1.4.3 > 1.4.5)
+        - Realistic Weather (Mod Version 1.2.3 > 1.2.4)
+        - Surrender Tweaks (Mod Version 1.5.4 > 1.5.5)
+        - More Spouses Pro Fix (Mod Version 1.1.0.0 > 1.1.0.1)
+        - Kingdom Destruction (Mod Version 1.5-1 > 1.6)
+        - Better Pikes (Mod Version 1.0.1 > 1.0.2)
+
+- **Preset Changes (CalradiaUnderFire.xml)**
+    - **Added Mods**
+        - Battle Minimap
+
+- **Developer Notes**
+  - Better Hud
+    - I'm not sure Better HUD needs extensive testing, UI mods are usually okay, unless something is real fucky. 
+  - Better Pikes
+    - This is a cool mod that makes pikes more useful, but it requires troop tree like De Re Militari or specifically troops with pikes with 400 length to use, which I don't currently have
+  - Breakable Polearms
+    - This is an interesting mod, considering shields break, why shouldn't long polearms with wood break? Also not a requirement to Better Pikes but it compliments it
+
 
 
 ----
@@ -9,7 +46,7 @@
 
 **Initial Release**
 
-## **Primary Modlist** (also known as the preset called ModlistProfile)
+## **Primary Modlist** 
 - Achievement Unblocker
 - No Safe Mode Prompt
 - Bannerboard
