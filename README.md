@@ -31,7 +31,9 @@ Calradia Under Fire ships with two Noxus Launcher presets. One is meant to be th
 
 ## Information
 
-`ModlistProfile` is the main profile, the modlist itself, which consists of about 60 mods and is what the standard user should select. It is focused around Realistic Battle Mod & Banner Kings. Features include the troop overhaul Warlords Battlefield, armors such as Open Source Armory, Swadian Armory, Vaegir Armory and many other QoL mods.
+`CalradiaUnderFire` is the primary preset, it consists of about 60 mods and is what the standard user should select. It is focused around Realistic Battle Mod & Banner Kings. Features include the troop overhaul Warlords Battlefield, armors such as Open Source Armory, Swadian Armory, Vaegir Armory and many other QoL mods. A detailed explanation can be available [here](here)
+
+`BasicEssentials` is basically the BUTR stack. Contains the bare minimum mods such as Harmony and what not. This is for advanced users to make their own load order based off the mods provided within MO2, or to mess around and test mods without affecting the main one.
 
 - Here is a small list of the more important mods I use, feel free to look up on them
    - [Realistic Battle Mod](https://www.nexusmods.com/mountandblade2bannerlord/mods/791) is the method of choice (for now) for overhauling the combat, specifically weapon and armor calculation.
@@ -43,8 +45,6 @@ Calradia Under Fire ships with two Noxus Launcher presets. One is meant to be th
    - [Dismemberment Plus](https://www.nexusmods.com/mountandblade2bannerlord/mods/2190) should be self explanatory
    - [Xorberax's Legacy](https://www.nexusmods.com/mountandblade2bannerlord/mods/3462) has mini-modules in it, but I mostly use it for the ability to enable weapons to cut through everyone
    - [Novus Launcher](https://www.nexusmods.com/mountandblade2bannerlord/mods/4924) well.. self explanatory
-
-`BasicEssentials` is where the second purpose of the modlist comes in. Contains the bare minimum mods such as Harmony and what not. This is for advanced users to make their own load order based off the mods provided within MO2, or to mess around and test mods without affecting the main one.
 
 ### Requirements & Installation
 
@@ -117,10 +117,7 @@ Also, until Stock Game is available, every update you will have to change the MO
 
 ### First Time Setups
 
-If you haven't done these steps, do them. Go to where you installed the list, and find the folder named **GAME FILES FOLDER** - open them up, you will see two folders, `Configs` and `NovusLauncher`
-
-- Copy the **NovusLauncher** folder into the game's [Root Game Directory](https://i.imgur.com/R4HCPAh.png). Example provided.
-- Copy the **Configs** folder into the game's [User Documents Directory](https://i.imgur.com/xgL062d.png). Example provided.
+**THIS PART IS GETTING REWORKED**
 
 Since I don't use the Stock Game folder, as it's not supported yet, paths aren't exactly saved from updates/compiles, so go do the following to quickly fix your paths:
 
@@ -136,7 +133,7 @@ https://user-images.githubusercontent.com/17627623/225754253-6d9c6060-e11b-47ca-
 You are generally ready to play, but there are one or two configs that aren't saved globally and have to be set every time you start a new game.
 
 1. Launch the game by running Novus Launcher through MO2
-2. Make sure `ModlistProfile` is selected under at the top of the Novus Launcher and then hit the green Play button.
+2. Make sure `CalradiaUnderFire` is selected under at the top of the Novus Launcher and then hit the green Play button.
 3. Adjust the following:
 
 - **Improved Garrisons**
@@ -202,7 +199,7 @@ It's honestly hard to get a list of bugs because Bannerlord is built different, 
 - Use Fourburie stuff in towns (eg the Scam button, etc)
 - Try to trade and go into the smithy constantly, make stuff, make a living
 
-Lastly.. If you run into any crashes, make sure you can reproduce it at least 3 times, click the dialog that says something like "show in Butterlib", and then hit `Upload Report as a Permalink`, copy it, join [Waking Dreams Discord Server](https://discord.gg/wakingdreams) and post in the respective support channel.
+Lastly.. If you run into any crashes, wait until it happens more than a few times, click the dialog above "Reasons" that says something like "show in Butterlib", and then hit `Upload Report as a Permalink`, copy it, join [Waking Dreams Discord Server](https://discord.gg/wakingdreams) and post in the respective support channel.
 
 ### Thanks & Credits
 
