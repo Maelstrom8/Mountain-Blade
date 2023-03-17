@@ -136,7 +136,7 @@ https://user-images.githubusercontent.com/17627623/225754253-6d9c6060-e11b-47ca-
 You are generally ready to play, but there are one or two configs that aren't saved globally and have to be set every time you start a new game.
 
 1. Launch the game by running Novus Launcher through MO2
-2. Make sure `CalradiaUnderFire` is selected under at the top of the Novus Launcher and then hit the green Play button.
+2. Make sure `ModlistProfile` is selected under at the top of the Novus Launcher and then hit the green Play button.
 3. Adjust the following:
 
 - **Improved Garrisons**
