@@ -31,7 +31,7 @@ Calradia Under Fire ships with two Noxus Launcher presets. One is meant to be th
 
 ## Information
 
-`CalradiaUnderFire` is the main profile, the modlist itself, which consists of about 60 mods and is what the standard user should select. It is focused around Realistic Battle Mod & Banner Kings. Features include the troop overhaul Warlords Battlefield, armors such as Open Source Armory, Swadian Armory, Vaegir Armory and many other QoL mods.
+`ModlistProfile` is the main profile, the modlist itself, which consists of about 60 mods and is what the standard user should select. It is focused around Realistic Battle Mod & Banner Kings. Features include the troop overhaul Warlords Battlefield, armors such as Open Source Armory, Swadian Armory, Vaegir Armory and many other QoL mods.
 
 - Here is a small list of the more important mods I use, feel free to look up on them
    - [Realistic Battle Mod](https://www.nexusmods.com/mountandblade2bannerlord/mods/791) is the method of choice (for now) for overhauling the combat, specifically weapon and armor calculation.
