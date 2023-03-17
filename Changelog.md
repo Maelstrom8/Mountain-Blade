@@ -1,30 +1,7 @@
 
 # Changelog
 - [1.2](#1.2)
-- [1.2.1](#1.2.1)
 
-
-# 1.2.1
-
-- **Modlist Changes (CalradiaUnderFire.xml)**
-    - **Added Mods**
-        - Battle Minimap
-    - **Removed Mods**
-        - Bannerlord Cheats (it is still in MO2)
-    - **Updated Mods**
-        - Useful Companions (Mod Version 0.4.7 to 0.5.1)
-        - Banner Color Persistance (Mod Version 1.4.3 to 1.4.5)
-
-- **MO2 Changes (Needs Testing)**
-    - **Added** 
-        - Better Attributes
-        - Better HUD
-        - Pacemaker Updated
-        - Calradian Banners Improved
-
-**Developer Notes**
-
-I don't think Better HUD needs testing, but people are free to add it in themselves before I get to it.
 
 ----
 
@@ -32,7 +9,7 @@ I don't think Better HUD needs testing, but people are free to add it in themsel
 
 **Initial Release**
 
-## **Primary Modlist** (also known as the preset called CalradiaUnderFire)
+## **Primary Modlist** (also known as the preset called ModlistProfile)
 - Achievement Unblocker
 - No Safe Mode Prompt
 - Bannerboard
