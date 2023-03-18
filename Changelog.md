@@ -17,6 +17,7 @@
         - Calradian Banners Improved
         - Pacemaker Updated
         - Transmog - Cosmetic Equipment
+        - Olto Craft
      - **Updated Mods**
         - Useful Companions (Mod Version 0.4.7 > 0.5.1)
         - Banner Color Persistance (Mod Version 1.4.3 > 1.4.5)
