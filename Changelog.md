@@ -26,6 +26,8 @@
         - More Spouses Pro Fix (Mod Version 1.1.0.0 > 1.1.0.1)
         - Kingdom Destruction (Mod Version 1.5-1 > 1.6)
         - Better Pikes (Mod Version 1.0.1 > 1.0.2)
+        - Xorberax's Legacy (Mod Version 1.0.5.1 > 1.0.5.2)
+        - Dismemberment Plus (Mod Version 2.0.6.1 > 2.0.6.2)
 
 - **Preset Changes (CalradiaUnderFire.xml)**
     - **Added Mods**
