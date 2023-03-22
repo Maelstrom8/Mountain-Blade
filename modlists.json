@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Calradia Under Fire",
-    "description": "A moderately packed and moderately challenging modlist for the v1.1.1 version of Mount & Blade II: Bannerlord, featuring mods such as Banner Kings, Realistic Battle Mod, Dismemberment Plus and much more.",
+    "description": "A moderately packed and moderately challenging modlist for the v1.1.2 version of Mount & Blade II: Bannerlord, featuring mods such as Banner Kings, Realistic Battle Mod, Dismemberment Plus and much more.",
     "author": "Maelstrom",
     "maintainers": [
       "github/Maelstrom8"
@@ -10,30 +10,31 @@
     "game": "mountandblade2bannerlord",
     "tags": [
       "Realistic Battle Mod",
+      "Warbandlord",
       "Banner Kings",
       "Overhaul",
       "Dismemberment"
     ],
     "nsfw": false,
     "image_contains_title": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Maelstrom8/Calradia/main/Images/4277-1665765591-334181290.jpeg",
       "readme": "https://github.com/Maelstrom8/Calradia/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Calradia%20Under%20Fire.wabbajack_87891948-3c77-4379-9d7b-de3bb79bac6c",
+      "download": "https://authored-files.wabbajack.org/Calradia%20Under%20Fire.wabbajack_c2c0b573-769b-43a8-9375-0f5667bba598",
       "machineURL": "calradia",
       "discordURL": "https://discord.gg/wakingdreams"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "ktoaoEY5JeM=",
-      "Size": 3897964,
-      "NumberOfArchives": 128,
-      "SizeOfArchives": 17370429472,
-      "NumberOfInstalledFiles": 11420,
-      "SizeOfInstalledFiles": 29944586232
+      "Hash": "Ys7TjYYlXMY=",
+      "Size": 3263508,
+      "NumberOfArchives": 147,
+      "SizeOfArchives": 17375203497,
+      "NumberOfInstalledFiles": 11478,
+      "SizeOfInstalledFiles": 29955597892
     },
-    "version": "1.2"
+    "version": "1.5"
   }
 ]
