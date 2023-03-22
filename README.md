@@ -131,10 +131,10 @@ https://user-images.githubusercontent.com/17627623/225754253-6d9c6060-e11b-47ca-
 
 ------------------------------------------------------------------------------------------------------
 
-- Go to where you installed the modlist and look for the folder `GAME FILES FOLDER`
-- Use something like `7zip` to open it. You'll see two folders.
-      - Copy `Configs` to your user documents eg `...\Documents\Mount and Blade II Bannerlord`
-      - Copy `NovusLauncher` to your root game folder eg `...\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord`
+- Go to where you installed the modlist and look for the folder `GAME FILES FOLDER`, find `Configs.7z`
+- Use something like `7zip` to open it. You'll see two folders:
+   - Copy `Configs` to your user documents eg `...\Documents\Mount and Blade II Bannerlord`
+   - Copy `NovusLauncher` to your root game folder eg `...\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord`
 
 
 1. Using the video above, add `NovusLauncher.exe` as an executable (Use the plus sign, and navigiate to your root game folder where you extracted it, select the exe, hit apply)
