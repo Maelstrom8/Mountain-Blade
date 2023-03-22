@@ -12,12 +12,21 @@
     - **Added** 
         - Breakable Polearms
         - Battle Minimap
+        - Better Skills
+        - Better Horses
         - Better Attributes
+        - Better Combat
         - Better HUD
         - Calradian Banners Improved
         - Pacemaker Updated
         - Transmog - Cosmetic Equipment
         - Olto Craft
+        - High Sell Price Alert
+        - No Bandits No Cry
+        - Small Talk
+        - Separatism
+        - POC color mod + configuration for Banner Kings banners
+        - More Prisoner Interactions
      - **Updated Mods**
         - Useful Companions (Mod Version 0.4.7 > 0.5.1)
         - Banner Color Persistance (Mod Version 1.4.3 > 1.4.5)
@@ -29,17 +38,162 @@
         - Xorberax's Legacy (Mod Version 1.0.5.1 > 1.0.5.2)
         - Dismemberment Plus (Mod Version 2.0.6.1 > 2.0.6.2)
 
-- **Preset Changes (CalradiaUnderFire.xml)**
-    - **Added Mods**
-        - Battle Minimap
+- **Preset Mod List (CalradiaUnderFire-RBM.xml)**
+   - Achievement Unblocker
+   - Bannerboard
+   - Designer225's Fixes
+   - More Arenas
+   - No Bandits No Cry
+   - Neated's NPC Upgrade Equipment
+   - High Sell Price Alerts
+   - I Dont Care - Campign Log Filter
+   - AutoTrader
+   - Aggregated Income
+   - Better Hud
+   - Tier 7 Troop Unlocker
+   - Realistic Battle Mod
+   - Open Source Armory
+   - Open Source Saddlery
+   - Open Source Weaponry
+   - Open Source Armory: RBM Patch
+   - Open Source Saddlery: RBM Patch
+   - Open Source Weaponry: RBM Patch
+   - Swadian Armoury
+   - Swadian Armoury: RBM Patch
+   - Vaegir Armoury
+   - Vaegir Armoury: RBM Patch
+   - Adonnay's Exotic Weaponry
+   - Adonnay's Exotic Weaponry: RBM Patch
+   - Reign of Sword
+   - Reign of Sword: RBM Patch
+   - Raise your Torch
+   - Perfect Fire Arrows
+   - Righteous Executions
+   - Royal Armoury
+   - ButterEquipped
+   - You Keep What You Kill
+   - Separatism
+   - Kingdom Politics Expanded
+   - Bannerlord XP Tweaks
+   - More Prisoner Interactions
+   - Olto Craft
+   - Better Smithing Continued
+   - RTS Camera
+   - RTS Command System
+   - Banner Editor
+   - Battle Minimap
+   - Distinguished Serivce
+   - Small Talk
+   - No Safe Mode Prompt
+   - Detailed Character Creation
+   - Settlement Icons Redesign
+   - Useful Companions
+   - Companion Spawn Error Patch
+   - More Companions For My Tavern
+   - Banner Color Persistence
+   - Pacemaker
+   - Surrender Tweaks
+   - Fourberie
+   - Xorberax's Legacy
+   - Dismemberment Plus
+   - Bloodmod
+   - Banner Fix
+   - Interesting Companions
+   - POC Color Randomizer 
+   - Random Events
+   - Improved Garrisons
+   - Banner Kings
+   - MC Amazon Body
+   - Face Texture Overhaul
+   - Warlords Battlefield
+   - Better Time
+   - Better Save/Load
+   - Realistic Weather
 
-- **Developer Notes**
-  - Better Hud
-    - I'm not sure Better HUD needs extensive testing, UI mods are usually okay, unless something is real fucky. 
-  - Better Pikes
-    - This is a cool mod that makes pikes more useful, but it requires troop tree like De Re Militari or specifically troops with pikes with 400 length to use, which I don't currently have
-  - Breakable Polearms
-    - This is an interesting mod, considering shields break, why shouldn't long polearms with wood break? Also not a requirement to Better Pikes but it compliments it
+
+
+- **Preset Mod List (CalradiaUnderFire-WBL.xml)**
+   - Achievement Unblocker
+   - Bannerboard
+   - Designer225's Fixes
+   - More Arenas
+   - No Bandits No Cry
+   - Neated's NPC Upgrade Equipment
+   - High Sell Price Alerts
+   - I Dont Care - Campign Log Filter
+   - AutoTrader
+   - Aggregated Income
+   - Better Hud
+   - Tier 7 Troop Unlocker
+   - Realistic Battle Mod (Combat Module > disabled)
+   - Warbandlord
+   - Open Source Armory
+   - Open Source Saddlery
+   - Open Source Weaponry
+   - Swadian Armoury
+   - Vaegir Armoury
+   - Adonnay's Exotic Weaponry
+   - Reign of Sword
+   - Raise your Torch
+   - Perfect Fire Arrows
+   - Righteous Executions
+   - Royal Armoury
+   - ButterEquipped
+   - You Keep What You Kill
+   - Separatism
+   - Kingdom Politics Expanded
+   - Bannerlord XP Tweaks
+   - More Prisoner Interactions
+   - Olto Craft
+   - Better Smithing Continued
+   - RTS Camera
+   - RTS Command System
+   - Banner Editor
+   - Battle Minimap
+   - Distinguished Serivce
+   - Small Talk
+   - No Safe Mode Prompt
+   - Detailed Character Creation
+   - Settlement Icons Redesign
+   - Useful Companions
+   - Companion Spawn Error Patch
+   - More Companions For My Tavern
+   - Banner Color Persistence
+   - Pacemaker
+   - Surrender Tweaks
+   - Fourberie
+   - Xorberax's Legacy
+   - Dismemberment Plus
+   - Bloodmod
+   - Banner Fix
+   - Interesting Companions
+   - POC Color Randomizer 
+   - Random Events
+   - Improved Garrisons
+   - Banner Kings
+   - MC Amazon Body
+   - Face Texture Overhaul
+   - Warlords Battlefield
+   - Better Time
+   - Better Save/Load
+   - Realistic Weather
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
