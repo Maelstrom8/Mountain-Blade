@@ -179,8 +179,8 @@ Adjust the following on every new game start:
    - **The Tournament Module** is disabled because to ensure compability with **Banner Kings**
    - **Troop Overhaul** is disabled because on both profiles because I use the troop overhaul **Warlords Battlefield**, which use their own non-RBM/RBM gear.
 - Xorberax Legacy
-   - **Deadly Combat** and **Deadly Horse Charge** are disabled to ensure balance with **Realistic Battle Mod**
-   - **Friendly Fire** can be disabled if you feel it's too much
+   - **Deadly Combat** and **Deadly Horse Charge** are disabled because I'm not sure they are balanced..
+   - **Friendly Fire** can be enabled/disabled, it's actually kinda funny
 - Improved Garrisons
    - **Food Module(s)** in the Left Alt + G settings are supposed to be disabled to ensure compatibility with **Banner Kings**
 
