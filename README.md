@@ -149,17 +149,25 @@ You are generally ready to play, there are some extra instructions and things to
 - Launch `Novus Launcher.exe` from the MO2 drop down
 - Decide which preset you want to play
 
-- **CalradiaUnderFire-RBM**:
-    -  Make sure `Warlords Battlefield (RBM Version)` is [enabled in MO2](https://i.imgur.com/KdC1a0g.png) before running `Novus Launcher`
-    -  Make sure you have the **Combat Module** in the RBM options via main menu enabled 
-    -  Double check for all armors, you have relevant RBM patches loaded after them (they should by default)
 
-- **CalradiaUnderFire-WBL**:
-    - Make sure `Warlords Battlefield` is [enabled in MO2](https://i.imgur.com/ckirBse.png) before running `Novus Launcher`
-    - Make sure you have the **Combat Module** in the RBM options via main menu disabled
-    - Make sure you have no RBM patches accidentally on your load order, they will make everyone even stronger 
+---
 
-Adjust the following on every new game start
+**CalradiaUnderFire-RBM**:
+
+- Make sure `Warlords Battlefield - RBM Version` is [enabled in MO2](https://i.imgur.com/KdC1a0g.png) before running `Novus Launcher`
+- Make sure you have the **Combat Module** in the RBM options via main menu enabled 
+- Double check for all armors, you have relevant RBM patches loaded after them (they should by default)
+
+   
+**CalradiaUnderFire-WBL**:
+
+- Make sure `Warlords Battlefield` is [enabled in MO2](https://i.imgur.com/ckirBse.png) before running `Novus Launcher`
+- Make sure you have the **Combat Module** in the RBM options via main menu disabled
+- Make sure you have no RBM patches accidentally on your load order, they will make everyone even stronger 
+    
+---
+
+Adjust the following on every new game start:
 
 - **Improved Garrisons**
    - Press Left Alt + G, go to `NPC Settings` and make sure it looks like [this](https://i.imgur.com/BkdUc12.jpeg). Do not enable food module(s)
