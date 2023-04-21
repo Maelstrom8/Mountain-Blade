@@ -210,16 +210,11 @@ A: Kinda hard to say, but if you must know a little about me: I'm someone who do
 A: I can't tell you why I don't use mods, and the sort. It can be any reason, but I generally want to keep it simple, I've only tested so many mods.
 
 #### Q: Can I enable the NSFW mods like Hot Butter? Captivity Events?
-A: Sure. They work, I just don't know how well they work with this mod selection, eg Banner Kings. You're kinda your own.
-
-#### Q: Why is my game crashing? 
-A: I dunno. Do you have a Butterlib Log? Join the [Waking Dreams](https://discord.gg/wakingdreams) server, and post in the support channel. I don't do support on my readme.
+A: Sure. They work, I just don't know how well they work with this mod selection, eg Banner Kings. You're kinda on your own.
 
 ### Bugs
 
 At the time of the writing, there's only real one known crash so far.. and it's a dreaded base game *Sandbox Core* crash that can happen when you approach a settlement. I have no real tips to avoid it, save your game somewhat often, and wait a bit before you head into a settlement.
-
-If you consistently crash for things that are due to mods, wait until it happens more than a few times, click the dialog above "Reasons" that says something like "show in Butterlib", and then hit `Upload Report as a Permalink`, copy it, join [Waking Dreams Discord Server](https://discord.gg/wakingdreams) and post in the respective support channel.
 
 ### Thanks & Credits
 
