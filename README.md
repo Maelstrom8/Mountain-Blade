@@ -107,8 +107,6 @@ You may run into some issues with Wabbajack, here are some common ones
 - Not an issue but you're installing it on an HDD and it's awfully slow
    - Get an SSD
 
-**OFFICIAL SUPPORT** IS PROVIDED OVER AT THE [WAKING DREAMS](https://discord.gg/wakingdreams) DISCORD
-
 ### Nexus Premium vs Non-Premium
 
 If you have Premium, WJ will request a Nexus login and use the api to download all mods automatically. Without Premium, you'll be prompted to manually download all the mods. There are 126 mods to download, and while only a small number of them contribute to the total size (16GB), you still have over 80 mods that are incredibly small in size to manually download when prompted in Wabbajack. If you don't like this, get Nexus Premium I dunno.
