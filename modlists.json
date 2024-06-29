@@ -1,8 +1,8 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Calradia Under Fire",
-    "description": "A moderately packed and moderately challenging modlist for the v1.1.2 version of Mount & Blade II: Bannerlord, featuring mods such as Banner Kings, Realistic Battle Mod, Dismemberment Plus and much more.",
+    "title": "Mountain Blade",
+    "description": "A work in progress modlist for Mount & Blade II: Bannerlord",
     "author": "Maelstrom",
     "maintainers": [
       "github/Maelstrom8"
@@ -11,7 +11,6 @@
     "tags": [
       "Realistic Battle Mod",
       "Warbandlord",
-      "Banner Kings",
       "Overhaul",
       "Dismemberment"
     ],
@@ -20,21 +19,21 @@
     "force_down": true,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Maelstrom8/Calradia/main/Images/4277-1665765591-334181290.jpeg",
-      "readme": "https://github.com/Maelstrom8/Calradia/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Calradia Under Fire.wabbajack_c2c0b573-769b-43a8-9375-0f5667bba598",
-      "machineURL": "calradia",
-      "discordURL": "https://discord.gg/wakingdreams"
+      "image": "https://raw.githubusercontent.com/Maelstrom8/Mountain-Blade/main/Images/4277-1665765591-334181290.jpeg",
+      "readme": "https://github.com/Maelstrom8/Mountain-Blade/blob/main/README.md",
+      "download": "",
+      "machineURL": "",
+      "discordURL": ""
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "Ys7TjYYlXMY=",
-      "Size": 3263508,
+      "Size": "",
       "NumberOfArchives": 147,
       "SizeOfArchives": 17375203497,
       "NumberOfInstalledFiles": 11478,
       "SizeOfInstalledFiles": 29955597892
     },
-    "version": "1.5"
+    "version": "1.0"
   }
 ]
