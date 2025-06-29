@@ -22,46 +22,24 @@
 
 # Introduction
 
-Calradia Under Fire is a dual purpose modlist for the v1.1.2 version of Mount & Blade II: Bannerlord. Calradia Under Fire makes use of a mod launcher called [Novus Launcher](https://www.nexusmods.com/mountandblade2bannerlord/mods/4924?tab=description), which allows users to make and customize load order presets for mods. This is basically what MO2 is for Bethesda games. Bannerlord has a basic MO2 plugin, and allows you to make profile presets, but because of how the game is built, MO2 can only really operate as a virtual file system. You need an additional tool such as Novus Launcher or BUTRLoader to then organize the load order of the mods.
-
-Calradia Under Fire ships with three Noxus Launcher presets. Two are meant to be the main modlist, which is meant to be played (almost) out of the box. It consists of 60 mods. The other preset is advanced users, or for those who want to build their own or test mods. That's where the real fun is. In all honesty you can make changes to either, but you should only touching the main one if you know what you're doing.
-
-(This has nothing to do with the game Kingdoms: Under Fire)
+Mountain Blade is a work in progress modlist for Mount and Blade II: Bannerlord. I think it's going to be mostly vanilla.
 
 ## Information
 
-Total Mods in MO2 (not reflected in the separate presets): [here](https://loadorderlibrary.com/lists/calradia-under-fire-112)
-
-Originally using only a RBM preset, I explored options and made two load order presets. Both generally consist of the same mods where applicable (eg Warbandlord profile does *not* have RBM armor patches else *those* armors will be too stronk).
-
-`CalradiaUnderFire-RBM` is the load order preset that uses the **Combat Module** + **AI Module** of Realistic Battle Mod. 
-
-`CalradiaUnderFire-WBL` is the load order preset that instead uses **Warbandlord** + **AI Module**
-
-`BUTRStack` is basically the BUTR stack + native modules. Contains the bare minimum mods such as Harmony and what not. This is for advanced users to make their own load order based off the mods provided within MO2, or to mess around and test mods without affecting the main one.
-
-- Here is a small list of the more important mods I use, feel free to look up on them
-   - [Realistic Battle Mod](https://www.nexusmods.com/mountandblade2bannerlord/mods/791) is a very complex mod that overhauls combat in more ways than one
-   - [Warbandlord](https://www.nexusmods.com/mountandblade2bannerlord/mods/3961) arguably the better combat mod
-   - [Banner Kings](https://github.com/R-Vaccari/bannerlord-banner-kings/wiki) is a core overhaul heavily inspired by Crusader Kings, lots of useful additions and changes
-   - [Open Source Armory](https://www.nexusmods.com/mountandblade2bannerlord/mods/2829) is one of the largest armor collections to date on Nexus, and kinda a little bloated but it has overall good armor in it.
-   - [Neated's NPC Upgrade Equipment](https://www.nexusmods.com/mountandblade2bannerlord/mods/4516) is a nice little mod that makes use of the armory mods I have. 
-   - [Warlords Battlefield](https://www.nexusmods.com/mountandblade2bannerlord/mods/4277) is the troop overhaul of my pick. I really do not like the virgin troop trees of vanilla game.
-   - [RTS Camera + Command System](https://github.com/Norbivar/RTSCamera) are two mods that allow better camera control and features in battle such as controlling troops after death, commanding your troops to attack formations, slow motion, etc
-   - [Dismemberment Plus](https://www.nexusmods.com/mountandblade2bannerlord/mods/2190) should be self explanatory
-   - [Xorberax's Legacy](https://www.nexusmods.com/mountandblade2bannerlord/mods/3462) has mini-modules in it, but I mostly use it for the ability to enable weapons to cut through everyone
-   - [Distinguished Service](https://www.nexusmods.com/mountandblade2bannerlord/mods/1101) allows troops to be promoted into companions through certain criteria
-   - [Novus Launcher](https://www.nexusmods.com/mountandblade2bannerlord/mods/4924) well.. self explanatory
+This is where I should list the important mods and link a load order library, if it works. Something like that.
 
 ### Requirements & Installation
 
-- A unmodified copy of Mount & Blade II: Bannerlord through Steam (I do not support anything else)
-- A Nexus account (you don't need Premium but everyone should have an account)
-- Your Bannerlord version must be v1.1.2 (I don't even know at this point, but it works on 1.1.2)
+In order to play my modlist, you must meet these conditions:
+
+- You must own a legitimate copy of Mount & Blade II: Bannerlord on Steam. Only the Steam version is supported, I do not care that you use or like GOG.
+- Your copy of the game *must* be 100% unmodified. If you have been modding it directly, or have been fucking around with the workshop, this is where you ensure all mods are disabled, and or nuke your entire game directory and start over.
+- You must have a Nexus Account and probably have Premium.
+- Your Bannerlord version must be v1.2.12. I don't support older versions. See below.
    - Go to Properties > Beta and select None
    - Make sure Language is set to [English](https://i.imgur.com/2OKEBEl.png)
    - They really don't have any way to stop updates, so your best option is putting it so it [only updates when you launch it](https://i.imgur.com/T2h2pxF.png). Set that.
-   - If the game updates, switch back to the v1.1.1 beta (I'll likely ultilize stock game feature if it becomes available)
+   - If the game updates, you're fucked. Just kidding, I'll figure it out.
 
 Additionally, if you do not have [.NET Desktop Runtime 6.0.14](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) - you need it. Novus Launcher won't work without it.
 
@@ -69,9 +47,9 @@ Additionally, if you do not have [.NET Desktop Runtime 6.0.14](https://dotnet.mi
 
 - See the recommended specs from the Steam page. You don't need a 4090 but you are expected to have a decent PC in 2023, and are expected to have an SSD for games. I would actually hope you install this on an SSD.
 
-- You need around 91GB of free space for this modlist
-   - 47GB for the base game, already installed separately
-   - 44GB for the modlist (16GB downloads + 28GB install)
+- You need around X GB of free space for this modlist
+   - X GB for the base game, already installed separately
+   - X GB for the modlist (X GB downloads + X GB install)
 
 ## Wabbajack Installation
 
@@ -113,10 +91,7 @@ If you have Premium, WJ will request a Nexus login and use the api to download a
 
 ## Updating the list
 
-You can update the list the same way you install it, just be sure to check [the changelog](https://github.com/Maelstrom8/CalradiaUnderFire/blob/main/Changelog.md) first. **DO NOT** manually update mods, unless you know what you're doing and you know how I made them, which you likely don't. I changed some mods around a little, so if you update them manually.. there could be an issue (eg. the RBM patches section)
-
-Also, until Stock Game is available, every update you will have to change the MO2 paths, mainly for Novus Launcher.
-
+You can update the list the same way you install it, just be sure to check CHANGELOG LINK first. **DO NOT** manually update mods, unless you know what you're doing and you know how I made them, which you likely don't. I changed some mods around a little, so if you update them manually.. there could be an issue.
 
 # Post Installation Setup 
 
