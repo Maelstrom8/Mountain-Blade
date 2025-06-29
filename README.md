@@ -35,11 +35,11 @@ In order to play my modlist, you must meet these conditions:
 - You must own a legitimate copy of Mount & Blade II: Bannerlord on Steam. Only the Steam version is supported, I do not care that you use or like GOG.
 - Your copy of the game *must* be 100% unmodified. If you have been modding it directly, or have been fucking around with the workshop, this is where you ensure all mods are disabled, and or nuke your entire game directory and start over.
 - You must have a Nexus Account and probably have Premium.
-- Your Bannerlord version must be v1.2.12. I don't support older versions. See below.
-   - Go to Properties > Beta and select None
-   - Make sure Language is set to [English](https://i.imgur.com/2OKEBEl.png)
-   - They really don't have any way to stop updates, so your best option is putting it so it [only updates when you launch it](https://i.imgur.com/T2h2pxF.png). Set that.
-   - If the game updates, you're fucked. Just kidding, I'll figure it out.
+- Your Bannerlord version must be v1.2.12. In the launcher it should say v1.2.12.77991. Do the following:
+   - Go to Properties > Beta and make sure [Beta Participation is set to None](https://i.imgur.com/IdTGKZS.png).
+   - Make sure Language is set to [English](https://i.imgur.com/0aD9AhD.png)
+   - There is no way to disable Automatic Updates, only to delay them. The best option is [Wait until I launch the game](https://i.imgur.com/ar0ImE3.png). Set that.
+   - If the game updates, select v1.2.12 from the Betas, I'll have to look into it.
 
 Additionally, if you do not have [.NET Desktop Runtime 6.0.14](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) - you need it. Novus Launcher won't work without it.
 
